@@ -1,0 +1,3 @@
+{% for item in site.data.pages.pages %}
+<a href="{{ site.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
+{% endfor %}

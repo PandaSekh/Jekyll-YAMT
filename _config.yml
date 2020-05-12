@@ -1,0 +1,19 @@
+#Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Site settings
+title: Yet Another Minimal Theme
+description: "Yet Another Minimal Theme"
+url:  "htpp://localhost:4000"
+author:
+  name: "Alessio Franceschi"
+  email: "alessiofranceschi2@gmail.com"
+  url: "https://alessiofranceschi.me"
+
+#Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Plugins
+plugins: [jekyll-paginate]

@@ -1,0 +1,22 @@
+//Social link colors
+$base: #a2a2a2;
+
+$github: #24292e;
+$twitter: #1DA1F2;
+
+
+//CSS
+.social{
+    a{
+        color: $base;
+    }
+}
+
+.social{
+    #github:hover{
+        color: $github;
+    }
+    #twitter:hover{
+        color: $twitter;
+    }
+}

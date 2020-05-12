@@ -1,0 +1,23 @@
+//Vars
+$base: #a2a2a2;
+
+//CSS
+header{
+    #site_title{
+        a{
+            text-decoration: none;
+            text-align: center;
+            color: black;
+        }
+    }
+}
+
+.pages{
+    a:hover{
+        color: black;
+    }
+    a{
+        text-decoration: none;
+        color: $base; 
+    }
+}

@@ -1,0 +1,54 @@
+/*
+  Main container
+*/
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+  }
+  
+  /*48em*/
+  
+  @media (max-width: 768px) {
+    .container {
+      width: 80vw;
+    }
+  }
+  
+#header{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    overflow: hidden
+  }
+
+  @media (max-width: 768px){
+      #header{
+          width: 80vw;
+      }
+  }
+
+  /* Nav */
+#subheader{
+    display: block;
+    .pages{
+        display: block;
+        float: left;
+    }
+
+    .social{
+        display: block;
+        float: right;
+    }
+}
+
+h1 a {
+    text-decoration: none;
+    color: black;
+  }
+
+h2 a{
+  text-decoration: none;
+  color: black;
+}

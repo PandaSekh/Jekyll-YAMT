@@ -1,0 +1,8 @@
+{% for item in site.data.social.social %}
+  {% assign char = item.link | slice: 0 %}
+  {% if char == '/' %}
+    <a href="{{ site.baseurl }}{{ item.link }}" id="{{item.icon}}"><i class="fab fa-{{item.icon}} fa-spin" aria-hidden="true"></i></a>
+  {% else %}
+    <a href="{{ item.link }}" target="_blank" id="{{item.icon}}"><i class="fab fa-{{item.icon}}" aria-hidden="true"></i></a>
+  {% endif %}
+{% endfor %}
