@@ -4,15 +4,14 @@ layout: post
 categories: [Unity, C#, Game Design]
 lang: en
 lang-ref: unity-sprite-facing-mouse
-featured-image: /assets/img/mountain.jpg
-image: /assets/img/mountain.jpg
+image: /assets/img/rotation.gif
 description: "Tutorial on how to rotate a sprite to make it face the mouse cursor. USeful for aiming in top-down shooters."
 ---
 Hello,
 in this short (and first!) post on this blog I would like to show you how to make a sprite face the mouse cursor. This is quite useful for aiming in top-down shooters and similar games.
 You can see an example of this in the following gif.
 
-![RotationGif](/assets/img/mountain.jpg "A gif showing how the rotation works")
+![RotationGif](/assets/img/rotation.gif "A gif showing how the rotation works")
 
 Now let's talk about the code. I tried various solutions found on the web, but most of them don't work, work sometimes or work badly. Luckily the easiest solution is also the best one! I found it on [YouTube](https://www.youtube.com/watch?v=_XdqA3xbP2A) and it is made by Danndx.
 
