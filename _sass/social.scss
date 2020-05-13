@@ -1,8 +1,10 @@
 //Social link colors
 $base: #a2a2a2;
 
+//Change colors here
 $github: #24292e;
 $twitter: #1DA1F2;
+$linkedin: #0e76a8;
 
 
 //CSS
@@ -18,5 +20,8 @@ $twitter: #1DA1F2;
     }
     #twitter:hover{
         color: $twitter;
+    }
+    #linkedin:hover{
+        color: $linkedin;
     }
 }
