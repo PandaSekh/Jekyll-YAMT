@@ -31,6 +31,11 @@ $base: #a2a2a2;
     a{
         color: $base;
         text-decoration: none;
+<<<<<<< Updated upstream
+=======
+        font-style: italic;
+        font-size: 0.95rem;
+>>>>>>> Stashed changes
     }
     a:hover{
         color: black;
@@ -40,5 +45,9 @@ $base: #a2a2a2;
 .post-info{
     font-size: 0.85rem;
     color: $base;
+<<<<<<< Updated upstream
 }
 
+=======
+}
+>>>>>>> Stashed changes

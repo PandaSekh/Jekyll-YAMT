@@ -12,12 +12,25 @@ header{
     }
 }
 
-.pages{
-    a:hover{
-        color: black;
+
+/* Nav */
+#subheader{
+display: block;
+    .pages{
+        display: block;
+        float: left;
+        a:hover{
+            color: black;
+        }
+        a{
+            text-decoration: none;
+            color: $base; 
+            font-family: 'PT Serif', serif;
+        }
     }
-    a{
-        text-decoration: none;
-        color: $base; 
+
+    .social{
+        display: block;
+        float: right;
     }
 }
