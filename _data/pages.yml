@@ -1,4 +1,5 @@
 pages:
-  - {name: 'About', path: 'pages', url: 'about.md'}
-  - {name: 'Contact', path: 'pages', url: 'contact.md'}
-  - {name: 'Portfolio', path: 'pages', url: 'contact.md'}
+  - {name: 'About', path: 'pages', url: 'about.html'}
+  - {name: 'Contact', path: 'pages', url: 'contact.html'}
+  - {name: 'Archive', path: 'pages', url: 'archive.html'}
+  - {name: 'Portfolio', path: 'pages', url: 'contact.html'}

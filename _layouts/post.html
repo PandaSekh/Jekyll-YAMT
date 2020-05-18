@@ -2,4 +2,9 @@
 layout: default
 ---
 
+<h2>{{ page.title }}</h2>
 {{ content }}
+
+{% if site.data.settings.disqus.disqus_shortname %}
+  {% include disqus.html %}
+{% endif %}
