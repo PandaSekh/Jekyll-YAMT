@@ -1,6 +1,3 @@
-//Vars
-$base: #a2a2a2;
-
 //Mixins
 @mixin border($amount){
     -webkit-border-radius: $amount;    
@@ -47,4 +44,8 @@ $base: #a2a2a2;
 
 p{
     font-size: 1.15rem;
+}
+
+a{
+    font-family: 'PT Serif', serif;
 }
