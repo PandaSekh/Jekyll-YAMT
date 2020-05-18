@@ -12,9 +12,9 @@ $linkedin: #0e76a8;
     a{
         color: $base;
     }
-}
-
-.social{
+    i{
+        font-size: 1.1rem;
+    }
     #github:hover{
         color: $github;
     }
@@ -23,5 +23,24 @@ $linkedin: #0e76a8;
     }
     #linkedin:hover{
         color: $linkedin;
+    }
+}
+
+.pages{
+    a{
+        font-size: 1.05rem;
+    }
+}
+
+@media (max-width: 768px){
+    .social{
+        i{
+            font-size: 1.2rem;
+        }
+    }
+    .pages{
+        a{
+            font-size: 1.1rem;
+        }
     }
 }

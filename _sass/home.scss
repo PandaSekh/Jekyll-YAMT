@@ -31,11 +31,8 @@ $base: #a2a2a2;
     a{
         color: $base;
         text-decoration: none;
-<<<<<<< Updated upstream
-=======
         font-style: italic;
-        font-size: 0.95rem;
->>>>>>> Stashed changes
+        font-size: 0.96rem;
     }
     a:hover{
         color: black;
@@ -43,11 +40,11 @@ $base: #a2a2a2;
 }
 
 .post-info{
-    font-size: 0.85rem;
+    font-size: 1rem;
     color: $base;
-<<<<<<< Updated upstream
+    font-family: 'PT Serif', serif;
 }
 
-=======
+p{
+    font-size: 1.15rem;
 }
->>>>>>> Stashed changes

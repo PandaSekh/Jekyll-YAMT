@@ -1,3 +1,17 @@
-#footer{
-    margin-top: 150px;
+.footer{
+    margin-top: 10px;
+    padding-top: 1px;
+    p{
+        text-align: center;
+        font-size: 0.85rem;
+    }
+}
+
+.footer::before{
+    display: block;
+    content: '';
+    width: 5rem;
+    height: 1px;
+    margin: 23px auto;
+    background-color: #d5d5d5;
 }

@@ -3,12 +3,37 @@ $base: #a2a2a2;
 
 //CSS
 header{
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    overflow: hidden;
+  
     #site_title{
         a{
             text-decoration: none;
             text-align: center;
             color: black;
         }
+    }
+}
+
+@media (max-width: 768px){
+    #header{
+        width: 80vw;
+    }
+}
+
+/* Nav */
+#subheader{
+    display: block;
+    .pages{
+        display: block;
+        float: left;
+    }
+
+    .social{
+        display: block;
+        float: right;
     }
 }
 
@@ -26,11 +51,15 @@ display: block;
             text-decoration: none;
             color: $base; 
             font-family: 'PT Serif', serif;
+            margin-right: 3px;
         }
     }
 
     .social{
         display: block;
         float: right;
+        i{
+            margin-right: 3px;
+        }
     }
 }
