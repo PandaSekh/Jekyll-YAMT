@@ -16,6 +16,7 @@ description: "A bunch of tips on how to format your text"
 <span class = "alert g"></span>
 ```
 <span class = "alert y">Careful.</span>
+<>
 ``` html
 <span class = "alert y"></span>
 ```

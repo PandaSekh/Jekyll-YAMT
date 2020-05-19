@@ -10,7 +10,7 @@ author:
 permalink: /:year/:month/:day/:title:output_ext
 
 
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
 
 #Pagination
 paginate: 3
@@ -30,5 +30,26 @@ kramdown:
       line_numbers: false
       start_line: 1
 
+#Sass
 sass:
   style: compressed
+
+#SEO
+twitter:
+  username: pandasekh
+  card: summary
+facebook:
+  app_id: # Facebook app ID for Facebook insights
+  publisher: # Facebook page URL or ID of the publishing entity
+  admins: # Facebook user ID for domain insights linked to a personal account
+logo: /assets/img/logo.jpg
+social:
+  links: #List your social links here
+    - https://twitter.com/PandaSekh
+webmaster_verifications:
+  google: 
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+lang: en_US

@@ -16,14 +16,6 @@ html{
     width: 700px;
 }
   
-  /*48em*/
-  
-@media (max-width: 768px) {
-    .container {
-      width: 80vw;
-    }
-}
-  
 
 h1 a {
     text-decoration: none;
@@ -43,7 +35,6 @@ h1{
 p{
   font-family: 'PT Serif', serif;
 }
-
 
 //Disqus
 #load-comments{
@@ -77,6 +68,7 @@ p{
   color: #fff;
   display: block;
   font-size: larger;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .y{
