@@ -1,9 +1,16 @@
 .footer{
-    margin-top: 10px;
-    padding-top: 1px;
     p{
         text-align: center;
         font-size: 0.85rem;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+    a:visited{
+       color: $base; 
     }
 }
 

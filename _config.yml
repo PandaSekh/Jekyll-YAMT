@@ -15,3 +15,20 @@ plugins: [jekyll-paginate]
 #Pagination
 paginate: 3
 paginate_path: "/page:num/"
+
+#Highlighter
+kramdown:
+  input:          GFM
+  syntax_highlighter: rouge
+
+
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+sass:
+  style: compressed

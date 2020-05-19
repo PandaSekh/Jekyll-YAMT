@@ -1,10 +1,37 @@
----
-layout: default
----
+<!doctype html>
+<html>
 
-<h2>{{ page.title }}</h2>
-{{ content }}
+{% include head.html %}
 
-{% if site.data.settings.disqus.disqus_shortname %}
-  {% include disqus.html %}
-{% endif %}
+<body>
+
+  <div class="container">
+    {% include header.html %}
+
+    <div class="post-container">
+      <article id = "post">
+        <h2>{{ page.title }}</h2>
+
+  {% if site.data.settings.date-under-post.active %}
+  <div class = "post-info">
+    <span>
+        <i class="far fa-calendar" aria-hidden="true"></i> <span>{{ page.date | date_to_string }}</span> - <i class="far fa-clock"></i> {% include reading_time.html %}
+    </span>
+  </div>
+  {% endif %}
+        {{ content }}
+      </article>
+    </div>
+    {% if site.data.settings.categories.active %}
+      {% include categories.html %}
+    {% endif %}
+
+    {% if site.data.settings.disqus.disqus_shortname %}
+      {% include disqus.html %}
+    {% endif %}
+  </div>
+
+{%- include footer.html -%}
+
+</body>
+</html>

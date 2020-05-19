@@ -37,6 +37,8 @@ Vector3 mousePosition = new Vector3 (Camera.main.ScreenToWorldPoint(Input.mouseP
 ```
 Here we get the current mouse position, we translate it into "world coordinates", which are actually usable, and then store it in a Vector3 variable. 
 
+#### A sub sub header
+
 ``` cs
 Vector2 directionToLookAt = new Vector2(
     mousePosition.x - transform.position.x,
@@ -45,7 +47,7 @@ Vector2 directionToLookAt = new Vector2(
 ```
 Create a new Vector2 and store the difference between the mouse position and the object position. We don't actually need the z axis, so we won't use a Vector3 this time.
 
-``` cs
+```
 transform.up = directionToLookAt;
 ```
 [transform.up](https://docs.unity3d.com/ScriptReference/Transform-up.html) *"Manipulates a GameObject’s position on the Y axis (green axis) of the transform in world space"*, according to Unity's Docs. 
