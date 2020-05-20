@@ -28,8 +28,8 @@ title: Home
         <span class = "continue-reading"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Continue reading...</a></span>
     </p> 
 </div>
-
 {% endfor %}
+
 <!-- Pagination links -->
 <div class = "paginator">
     {% if paginator.total_pages > 1 %}

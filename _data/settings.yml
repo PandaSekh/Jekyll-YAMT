@@ -3,7 +3,7 @@ analytics-id: #leave blank to not use Analytics
 
 #Disqus
 disqus:
-  disqus_shortname: "pandasekh" #Your disqus shortname. Leave blank to deactivate disqus comments
+  disqus_shortname: "your_username" #Your disqus shortname. Leave blank to deactivate disqus comments
 
 #Show categories at the end of posts
 categories:
