@@ -22,7 +22,7 @@ There are four way to use YAMT: Netlify (suggested, as this theme has a contact 
 ### Netlify
 1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate). You can copy only master, set it to private or public and name it however you want.
 2. Go to [Netlify](https://app.netlify.com/), create a New site from Git, choose your repo or all repos, no difference. Back to Netlify, select the recently forked repo.
-3. Owner and branch are good to go. In build command write "bundle exec jekyll build" and publishing directory should be "_site/".
+3. Owner and branch are good to go. In build command write `bundle exec jekyll build` and publishing directory should be `_site/`.
 4. Deploy. Your site will shortly be available. Under domain settings you can change your subdomain, or add a primary level one. 
 
 ### Github Pages
@@ -57,11 +57,15 @@ There are four way to use YAMT: Netlify (suggested, as this theme has a contact 
 
 3. And then execute:
 
+    ``` bash
     $ bundle
+    ```
 
 4. Or install it yourself as:
-
+    
+    ``` bash
     $ gem install yamt
+    ```
 
 ## Usage
 
