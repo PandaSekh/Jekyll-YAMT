@@ -1,3 +1,5 @@
+# WORK IN PROGRESS! STILL NEED TO FIX MINOR THINGS AND TO WRITE THE DOCS
+
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
 ## [Live Demo](https://yamt.netlify.app/)
