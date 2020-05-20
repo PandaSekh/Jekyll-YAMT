@@ -10,7 +10,7 @@ author:
 permalink: /:year/:month/:day/:title:output_ext
 
 
-plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
 paginate: 3
@@ -20,7 +20,6 @@ paginate_path: "/page:num/"
 kramdown:
   input:          GFM
   syntax_highlighter: rouge
-
 
   syntax_highlighter_opts:
     css_class: 'highlight'
@@ -33,6 +32,7 @@ kramdown:
 #Sass
 sass:
   style: compressed
+  sourcemap: never
 
 #SEO
 twitter:
@@ -53,3 +53,6 @@ webmaster_verifications:
   yandex: 
   baidu: 
 lang: en_US
+
+
+

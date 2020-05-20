@@ -7,6 +7,8 @@ li.post{
     padding-bottom: 1rem;
 }
 
+
+
 img{
     display: block;
     margin-left: auto;
@@ -18,29 +20,8 @@ img{
     border-radius: 7px;
 }
 
-h2, h3, h4, h5, h6{
-    text-decoration: none;
-    color: black;
-    font-family: 'Montserrat', sans-serif;
-    margin-bottom: 10px;
-}
-
-h2{
-    margin-bottom: 0px;
-}
-
-h3{
-    font-size: 1.4rem;
-}
-h4{
-    font-size: 1.3rem;
-}
-h5{
-    font-size: 1.15rem;
-}
-
 .post-container{
-    p{
+    p, li{
         a{
           text-decoration:none;
           border-bottom: 2px solid $light-grey;
@@ -59,6 +40,7 @@ h5{
           background: $light-grey;
         }
       }
+      
 }
 
 .categories{
@@ -89,6 +71,7 @@ article::after{
     content: '';
     width: 5rem;
     height: 1px;
-    margin: 23px auto;
+    margin: 30px auto;
     background-color: #d5d5d5;
 }
+

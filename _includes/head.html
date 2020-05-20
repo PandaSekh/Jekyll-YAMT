@@ -1,13 +1,18 @@
-<head>
     <html lang="en-US">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Change these info -->
-    <title>YAMT | Yet Another Minimal Theme</title>
-    <meta name="description" content="Yet Another Minimal Theme for Jekyll">
-    <meta name="keywords" content="jekyll, theme, website">
-    <meta name="author" content="Alessio Franceschi">
+    <title>
+        {% if page.title == "Home" %}
+            {{ site.title }} | {{ site.description }}
+        {% else %}
+            {{ page.title }} | {{ site.title }}
+      {% endif %}
+    </title>
+    <meta name="description" content="
+    {% if page.description %}{{ page.description }}
+    {% else %}{{ site.description }}
+    {% endif %}">
 
     <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
@@ -22,8 +27,11 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=PT+Serif&display=swap" rel="stylesheet">
 
-    <!-- Google Analytics -->
-
     <!-- SEO Plugin -->
     {% seo %}
-</head>
+
+    <!-- Google Analytics -->
+    {% if site.data.settings.analytics-id%}
+        {%- include analytics.html -%}
+    {% endif %}
+    <!-- End Google Analytics -->

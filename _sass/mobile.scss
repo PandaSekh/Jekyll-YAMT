@@ -1,9 +1,15 @@
 @media (max-width: 768px){
+    html{
+        overflow-y: auto;
+    }
     .container {
         width: 80vw;
     }
     #header{
         width: 80vw;
+    }
+    #post-title{
+        text-align: center;
     }
     #subheader{
         display: flex;
@@ -25,13 +31,22 @@
         }
     }
 
-    h2{
-        text-align: center;
-    }
+
     p{
         font-size: 1.2rem;
     }
     .post-info{
         text-align: center;
+    }
+    ::-webkit-scrollbar {
+        height: 3px;
+      }
+    div .highlight{
+        padding-left: 8px;
+        padding-right: 0px;
+    }
+    pre .highlight{
+        padding-left: 8px;
+        padding-right: 0px;
     }
 }

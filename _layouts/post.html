@@ -1,7 +1,8 @@
 <!doctype html>
 <html>
-
-{% include head.html %}
+  <head>
+    {% include head.html %}
+  </head>
 
 <body>
 
@@ -10,7 +11,7 @@
 
     <div class="post-container">
       <article id = "post">
-        <h2>{{ page.title }}</h2>
+        <h2 id = "post-title">{{ page.title }}</h2>
 
   {% if site.data.settings.date-under-post.active %}
   <div class = "post-info">
@@ -26,6 +27,10 @@
       {% include categories.html %}
     {% endif %}
 
+    {% if site.data.settings.related-posts.active %}
+      {% include related-posts.html %}
+    {% endif %}
+
     {% if site.data.settings.disqus.disqus_shortname %}
       {% include disqus.html %}
     {% endif %}
@@ -33,5 +38,8 @@
 
 {%- include footer.html -%}
 
+{% if site.data.settings.mathjax.active %}
+  {%- include mathjax.html -%}
+{% endif %}
 </body>
 </html>

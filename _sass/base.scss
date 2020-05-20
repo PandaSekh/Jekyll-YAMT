@@ -15,25 +15,9 @@ html{
     margin-right: auto;
     width: 700px;
 }
-  
 
-h1 a {
-    text-decoration: none;
-    color: black;
-  }
-
-h2 a{
-  text-decoration: none;
-  color: black;
-  font-family: 'Montserrat', sans-serif;
-}
-
-h1{
-  font-family: 'Montserrat', sans-serif;
-}
-
-p{
-  font-family: 'PT Serif', serif;
+.task-list{
+  list-style: none;
 }
 
 //Disqus
@@ -86,3 +70,67 @@ p{
   border-left: 7px solid #cb2020;
 }
 //End Alerts
+
+//Blockquote
+blockquote {
+  border-left: .25em solid #dfe2e5;
+  color: #6a737d;
+  padding: 0 1em;
+  cite{
+    display: inline-block;
+    margin-top: 50px;
+    cite::before{
+      content: "- ";
+      margin-left: 10px;
+    }
+  }
+}
+//End Blockquote
+
+//MathJAX
+.MathJax_Display{
+  .MathJax {
+  font-size: 1.2rem;
+  }
+}
+
+//ToC
+#markdown-toc::before {
+  content: "Contents";
+  font-size: 1.1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+#markdown-toc ul {
+  list-style: disc;
+}
+
+#markdown-toc {
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  padding: 1.5em;
+  list-style: disc;
+  display: inline-block;
+  background-color: $light-grey;
+  line-height: 25px;
+  li{
+    a{
+      font-family: 'PT Serif', serif;
+      text-decoration: none;
+    }
+    a:hover{
+      font-style: italic;
+    }
+  }
+  
+}
+
+//Table
+table{
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+//End Table

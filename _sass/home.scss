@@ -6,12 +6,6 @@
     border-radius: $amount; 
 }
 
-//CSS
-.post{
-    h2{
-        margin-bottom: 1px;
-    }
-}
 
 .featured-img-container{
     margin-block-start: 1em;
@@ -39,13 +33,5 @@
 .post-info{
     font-size: 1rem;
     color: $base;
-    font-family: 'PT Serif', serif;
-}
-
-p{
-    font-size: 1.15rem;
-}
-
-a{
     font-family: 'PT Serif', serif;
 }

@@ -1,5 +1,16 @@
+// Colors for social icons
+$github: #24292e;
+$twitter: #1DA1F2;
+$linkedin: #0e76a8;
+$rss: #f26522;
+$mail: #5d5c5d;
+$instagram: #e1306c;
+$facebook: #3b5998;
+$messenger: #0084ff;
+$youtube: #ff0000;
+$whatsapp: #25d366;
+$reddit: #ff4500;
 
-//CSS
 header{
     margin-left: auto;
     margin-right: auto;
@@ -13,46 +24,49 @@ header{
             color: black;
         }
     }
-}
-
-
-/* Nav */
-#subheader{
-    display: block;
-    .pages{
+    #subheader{
         display: block;
-        float: left;
-    }
-
-    .social{
-        display: block;
-        float: right;
-    }
-}
-
-
-/* Nav */
-#subheader{
-display: block;
-    .pages{
-        display: block;
-        float: left;
-        a:hover{
-            color: black;
+            .pages{
+                display: block;
+                float: left;
+                a:hover{
+                    color: black;
+                }
+                a{
+                    text-decoration: none;
+                    color: $base; 
+                    font-family: 'PT Serif', serif;
+                    margin-right: 3px;
+                    font-size: 1.05rem;
+                }
+            }
+            .social{
+                display: block;
+                float: right;
+                i{
+                    margin-right: 3px;
+                }
+                a{
+                    color: $base;
+                }
+                i{
+                    font-size: 1.1rem;
+                }
+                #github:hover{
+                    color: $github;
+                }
+                #twitter:hover{
+                    color: $twitter;
+                }
+                #linkedin:hover{
+                    color: $linkedin;
+                }
+                #rss:hover{
+                    color: $rss;
+                }
+                #envelope:hover{
+                    color: $mail;
+                }
+            }
         }
-        a{
-            text-decoration: none;
-            color: $base; 
-            font-family: 'PT Serif', serif;
-            margin-right: 3px;
-        }
-    }
-
-    .social{
-        display: block;
-        float: right;
-        i{
-            margin-right: 3px;
-        }
-    }
 }

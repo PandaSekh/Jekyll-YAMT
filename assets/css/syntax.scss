@@ -1,6 +1,15 @@
 ---
 ---
 
+/*  These two lines of CSS can't be used together, as they will break some elements. Uncomment the one you want to use and comment or delete the other one.
+    white-space: pre-wrap - returns on a new line every word outside of the code block. No horizontal scrollbar. This breaks the lines of code, if you show them. https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
+    overflow-x: auto - The lines of code remain exactly the same as you typed. In case of overflow, it adds an horizontal scrollbar. This works with lines of code. https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x
+*/
+pre{
+  /* white-space: pre-wrap; */  
+   overflow-x: auto;
+}
+
 .highlight{
   font-size: 16px;
   border-radius: 5px;
@@ -8,10 +17,6 @@
   padding-right: 10px;
   padding-top: 1px;
   padding-bottom: 1px;
-}
-
-pre.highlight{
-  overflow-x: auto;
 }
 
 pre.lineo{
@@ -54,7 +59,7 @@ pre.lineo{
   background-color: #493131;
 }
 .highlight .ge {
-  color: #000000;
+  color: #ffffff;
   font-style: italic;
 }
 .highlight .gr {
@@ -229,3 +234,25 @@ pre.lineo{
   background-color: #49483e;
 }
 
+figure.highlight{
+  position: relative;
+}
+
+figure.highlight pre code[data-lang]::before, div.highlight pre code[data-lang]::before{
+  content: attr(data-lang);
+  text-transform: uppercase;
+  position: absolute;
+  color: #ebebeb;
+  right: 34px;
+  top: -10px;
+  padding-left: 7.5px;
+  padding-right: 7.5px;
+  border: 1px solid #828282;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  min-width: 40px;
+  text-align: center;
+  background-color: #49483e;
+}

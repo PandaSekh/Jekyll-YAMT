@@ -1,7 +1,7 @@
 ---
 title: 2D Top-Down Aiming Using the Mouse in Unity3D
 layout: post
-categories: [Unity, C#, Game Design]
+categories: [Typography, Unity, C#, Game Design]
 lang: en
 lang-ref: unity-sprite-facing-mouse
 image: /assets/img/rotation.gif
@@ -52,3 +52,23 @@ transform.up = directionToLookAt;
 Basically, we rotate the Y axis of the object.
 
 That's all! Thank you for reading this, if you want to contact me you can find me on [Twitter](https://twitter.com/PandaSekh).
+
+
+{% highlight cs %}
+transform.up = directionToLookAt;
+{% endhighlight %}
+
+{% highlight html %}
+<p>Hello world</p>
+{% endhighlight %}
+
+{% highlight cs linenos %}
+Vector3 mousePosition = new Vector3 (Camera.main.ScreenToWorldPoint(Input.mousePosition));
+
+Vector2 directionToLookAt = new Vector2(
+    mousePosition.x - transform.position.x,
+    mousePosition.y - transform.position.y
+    );
+
+transform.up = directionToLookAt;
+{% endhighlight %}

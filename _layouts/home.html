@@ -20,7 +20,11 @@ title: Home
     {% endif %}
 
     <p>
-        {{ post.content | strip_html | truncatewords:50 }}
+        {% if post.customexcerpt %}
+            {{post.customexcerpt | strip_html | truncatewords:50}}
+        {% else %}
+            {{ post.content | strip_html | truncatewords:50 }}
+        {% endif %}
         <span class = "continue-reading"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Continue reading...</a></span>
     </p> 
 </div>
