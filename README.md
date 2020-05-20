@@ -1,5 +1,12 @@
+# WORK IN PROGRESS! STILL NEED TO FIX MINOR THINGS AND TO WRITE THE DOCS
+
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
+![status](http://img.shields.io/badge/Status-Unreleased-critical?style=plastict)
+![supports mathjax](https://img.shields.io/badge/Supports-MathJAX-blue)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-YAMT/issues)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
+![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-YAMT?label=Fork%20it%21&style=social)
 ## [Live Demo](https://yamt.netlify.app/)
 YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
 
@@ -22,7 +29,7 @@ There are four way to use YAMT: Netlify (suggested, as this theme has a contact 
 ### Netlify
 1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate). You can copy only master, set it to private or public and name it however you want.
 2. Go to [Netlify](https://app.netlify.com/), create a New site from Git, choose your repo or all repos, no difference. Back to Netlify, select the recently forked repo.
-3. Owner and branch are good to go. In build command write "bundle exec jekyll build" and publishing directory should be "_site/".
+3. Owner and branch are good to go. In build command write `bundle exec jekyll build` and publishing directory should be `_site/`.
 4. Deploy. Your site will shortly be available. Under domain settings you can change your subdomain, or add a primary level one. 
 
 ### Github Pages
@@ -57,11 +64,15 @@ There are four way to use YAMT: Netlify (suggested, as this theme has a contact 
 
 3. And then execute:
 
+    ``` bash
     $ bundle
+    ```
 
 4. Or install it yourself as:
-
+    
+    ``` bash
     $ gem install yamt
+    ```
 
 ## Usage
 
