@@ -1,41 +1,77 @@
-# yamt
+# WORK IN PROGRESS! STILL NEED TO FIX MINOR THINGS AND TO WRITE THE DOCS
 
-Welcome to your new Jekyll theme! In this directory, you'll find the files you need to be able to package up your theme into a gem. Put your layouts in `_layouts`, your includes in `_includes`, your sass files in `_sass` and any other assets in `assets`.
+# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
+## [Live Demo](https://yamt.netlify.app/)
+YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
 
-To experiment with this code, add some sample content and run `bundle exec jekyll serve` – this directory is setup just like a Jekyll site!
+## Contents
 
-TODO: Delete this and the text above, and describe your gem
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customize](#options)
+  - [Header](#header)
+  - [Post](#post)
+- [Development](#development)
+- [License](#license)
 
+## Features
 
 ## Installation
+There are four way to use YAMT: Netlify (suggested, as this theme has a contact module built-in working only on Netlify), Github Pages, as a gem-based theme, by forking this repo or by copying all the files into your directory.
 
-Add this line to your Jekyll site's `Gemfile`:
+### Netlify
+1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate). You can copy only master, set it to private or public and name it however you want.
+2. Go to [Netlify](https://app.netlify.com/), create a New site from Git, choose your repo or all repos, no difference. Back to Netlify, select the recently forked repo.
+3. Owner and branch are good to go. In build command write `bundle exec jekyll build` and publishing directory should be `_site/`.
+4. Deploy. Your site will shortly be available. Under domain settings you can change your subdomain, or add a primary level one. 
 
-```ruby
-gem "yamt"
-```
+### Github Pages
 
-And add this line to your Jekyll site's `_config.yml`:
+### Remote theme
+1. Have a gemfile with only the following content:
 
-```yaml
-theme: yamt
-```
+    ```ruby
+    source "https://rubygems.org"
 
-And then execute:
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
+2. Run the following command:
+
+   ```bash
+   bundle
+   ```
+
+### Gem-based theme 
+1. Add this line to your Jekyll site's `Gemfile`:
+
+    ```ruby
+    gem "yamt"
+    ```
+
+2. And add this line to your Jekyll site's `_config.yml`:
+
+    ```yaml
+    theme: yamt
+    ```
+
+3. And then execute:
+
+    ``` bash
     $ bundle
+    ```
 
-Or install it yourself as:
-
+4. Or install it yourself as:
+    
+    ``` bash
     $ gem install yamt
+    ```
 
 ## Usage
 
 TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 
@@ -49,4 +85,3 @@ To add a custom directory to your theme-gem, please edit the regexp in `yamt.gem
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-

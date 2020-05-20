@@ -1,19 +1,58 @@
-#Pagination
-paginate: 6
-paginate_path: /page:num/
-
 # Site settings
 title: Yet Another Minimal Theme
 description: "Yet Another Minimal Theme"
-url:  "htpp://localhost:4000"
+url:  "https://yamt.netlify.app"
 author:
   name: "Alessio Franceschi"
   email: "alessiofranceschi2@gmail.com"
   url: "https://alessiofranceschi.me"
 
-#Pagination
-paginate: 6
-paginate_path: /page:num/
+permalink: /:year/:month/:day/:title:output_ext
 
-# Plugins
-plugins: [jekyll-paginate]
+
+plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
+
+#Pagination
+paginate: 3
+paginate_path: "/page:num/"
+
+#Highlighter
+kramdown:
+  input:          GFM
+  syntax_highlighter: rouge
+
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+#Sass
+sass:
+  style: compressed
+  sourcemap: never
+
+#SEO
+twitter:
+  username: pandasekh
+  card: summary
+facebook:
+  app_id: # Facebook app ID for Facebook insights
+  publisher: # Facebook page URL or ID of the publishing entity
+  admins: # Facebook user ID for domain insights linked to a personal account
+logo: /img/logo.jpg
+social:
+  links: #List your social links here
+    - https://twitter.com/PandaSekh
+webmaster_verifications:
+  google: 
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+lang: en_US
+
+
+

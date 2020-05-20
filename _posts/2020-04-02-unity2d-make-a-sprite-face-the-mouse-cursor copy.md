@@ -1,17 +1,17 @@
 ---
 title: 2D Top-Down Aiming Using the Mouse in Unity3D
 layout: post
-categories: [Unity, C#, Game Design]
+categories: [Typography, Unity, C#, Game Design]
 lang: en
 lang-ref: unity-sprite-facing-mouse
-image: /assets/img/rotation.gif
+image: /img/rotation.gif
 description: "Tutorial on how to rotate a sprite to make it face the mouse cursor. USeful for aiming in top-down shooters."
 ---
 Hello,
 in this short (and first!) post on this blog I would like to show you how to make a sprite face the mouse cursor. This is quite useful for aiming in top-down shooters and similar games.
 You can see an example of this in the following gif.
 
-![RotationGif](/assets/img/rotation.gif "A gif showing how the rotation works")
+![RotationGif](/img/rotation.gif "A gif showing how the rotation works")
 
 Now let's talk about the code. I tried various solutions found on the web, but most of them don't work, work sometimes or work badly. Luckily the easiest solution is also the best one! I found it on [YouTube](https://www.youtube.com/watch?v=_XdqA3xbP2A) and it is made by Danndx.
 
@@ -52,3 +52,23 @@ transform.up = directionToLookAt;
 Basically, we rotate the Y axis of the object.
 
 That's all! Thank you for reading this, if you want to contact me you can find me on [Twitter](https://twitter.com/PandaSekh).
+
+
+{% highlight cs %}
+transform.up = directionToLookAt;
+{% endhighlight %}
+
+{% highlight html %}
+<p>Hello world</p>
+{% endhighlight %}
+
+{% highlight cs linenos %}
+Vector3 mousePosition = new Vector3 (Camera.main.ScreenToWorldPoint(Input.mousePosition));
+
+Vector2 directionToLookAt = new Vector2(
+    mousePosition.x - transform.position.x,
+    mousePosition.y - transform.position.y
+    );
+
+transform.up = directionToLookAt;
+{% endhighlight %}

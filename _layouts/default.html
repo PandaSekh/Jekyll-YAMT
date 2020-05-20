@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
-
-{% include head.html %}
-
+<head>
+  {% include head.html %}
+</head>
 <body>
 
   <div class="container">
@@ -11,10 +11,9 @@
     <div class="post-container">
       {{ content }}
     </div>
-
-    {% include footer.html %}
-
   </div>
+
+{%- include footer.html -%}
 
 </body>
 </html>

@@ -8,4 +8,4 @@ social:
   - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/alessio-franceschi/'}
   
   - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "alessiofranceschi.me/rss.xml"}
+  - {icon: 'rss', type: "solid", link: "/feed.xml"}
