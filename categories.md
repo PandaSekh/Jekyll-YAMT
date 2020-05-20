@@ -11,7 +11,7 @@ title: Categories
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <h2 class="archive-cat">{{ category_name }}</h3>
+    <h2 class="archive-cat">{{ category_name }}</h2>
     <a name="{{ category_name | slugize }}"></a>
     <ul>
     {% for post in site.categories[category_name] %}
