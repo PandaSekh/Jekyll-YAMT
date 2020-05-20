@@ -2,7 +2,7 @@
 
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-YAMT/issues)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
+[![HitCount](http://hits.dwyl.com/PandaSekh/Jekyll-YAMT.svg)](http://hits.dwyl.com/PandaSekh/Jekyll-YAMT)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
 ![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-YAMT?label=Fork%20it%21&style=social)
