@@ -3,6 +3,8 @@ cache: bundler
 branches:
   only:
   - master
+before_install:
+  - gem install bundler
 script:
   - JEKYLL_ENV=production bundle exec jekyll build --destination travis_build
 deploy:
