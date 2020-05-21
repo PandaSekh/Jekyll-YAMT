@@ -12,12 +12,12 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Customize](#options)
   - [Basics](#Basics)
   - [Header](#header)
   - [Home](#home)
   - [Post](#post)
+  - [Contact Form](#contact-form)
 - [Development](#development)
 - [Credits](#credits)
 - [License](#license)
@@ -107,6 +107,10 @@ In _data/settings.yml you can choose to hide or show the posts infos (date and r
 ### Post
 In _data/settings.yml you can choose to hide or show the post infos, categories, related posts and comments.
 Note that by removing categories the Categories Archives will no longer be reachable.
+
+### Contact Form
+YAMT has a built-in contact form builded using [Netlify](https://app.netlify.com/) free form functionality. To make it work you only need the line `data-netlify="true"` when declaring a form.  
+If you don't want to use Netlify, remove the line `data-netlify="true"`.
 
 ## Development
 
