@@ -93,6 +93,7 @@ blockquote {
   font-size: 1.2rem;
   }
 }
+//End MathJAX
 
 //ToC
 #markdown-toc::before {
@@ -100,10 +101,6 @@ blockquote {
   font-size: 1.1rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
-}
-
-#markdown-toc ul {
-  list-style: disc;
 }
 
 #markdown-toc {
@@ -123,8 +120,8 @@ blockquote {
       font-style: italic;
     }
   }
+  ul{
+    list-style: disc;
+  }
 }
-
-.lazy{
-  padding-bottom: calc(height/width * 100%);
-}
+//End ToC

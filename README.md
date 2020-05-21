@@ -77,9 +77,6 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
     $ gem install jekyll-yamt
     ```
 
-## Usage
-
-TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
 
 ## Customize
 YAMT is easily customizable. Most of the customizable things are self-explanatory and found in the _data folder and in the _config.yml.
@@ -107,8 +104,8 @@ When your theme is released, only the files in `_layouts`, `_includes`, `_sass` 
 To add a custom directory to your theme-gem, please edit the regexp in `yamt.gemspec` accordingly.
 
 ## Credits
-Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).
-Great help from [this blog](https://blog.webjeda.com/), I've used this even before I created this theme.
+Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).  
+Also great help from [this blog](https://blog.webjeda.com/), I've used this even before I created this theme.
 
 ## License
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
