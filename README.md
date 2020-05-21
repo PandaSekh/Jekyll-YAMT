@@ -1,7 +1,7 @@
 # WORK IN PROGRESS! STILL NEED TO FIX MINOR THINGS AND TO WRITE THE DOCS
 
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-![status](http://img.shields.io/badge/Status-Unreleased-critical?style=plastict)
+[![Build Status](https://travis-ci.com/PandaSekh/Jekyll-YAMT.svg?branch=master)](https://travis-ci.com/PandaSekh/Jekyll-YAMT)
 ![supports mathjax](https://img.shields.io/badge/Supports-MathJAX-blue)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-YAMT/issues)
 
