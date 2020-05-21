@@ -51,6 +51,9 @@ Minimal:
 
 There are four way to use YAMT: Netlify (suggested, as this theme has a contact module built-in working only on Netlify), Github Pages, as a gem-based theme, by forking this repo or by copying all the files into your directory.
 
+### Download the files
+You can [download the files](https://github.com/PandaSekh/Jekyll-YAMT/releases/latest) and add them in your directory to start working.
+
 ### Netlify
 
 1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate). You can copy only master, set it to private or public and name it however you want.
