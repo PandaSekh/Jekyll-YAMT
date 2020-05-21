@@ -1,0 +1,51 @@
+@media (max-width: 768px){
+    html{
+        overflow-y: auto;
+    }
+    .container {
+        width: 80vw;
+    }
+    #header{
+        width: 80vw;
+        #subheader{
+            display: flex;
+            flex-flow: column wrap;
+            align-items: center;
+            .pages{
+                margin-top: 12px;
+                order: 2;
+                text-align: center;
+                a{
+                    font-size: 1.15rem;
+                }
+            }
+            .social{
+                order: 1;
+                i{
+                    font-size: 1.3rem;
+                }
+            }
+        }
+    }
+    #post-title{
+        text-align: center;
+    }
+
+    p{
+        font-size: 1.2rem;
+    }
+    .post-info{
+        text-align: center;
+    }
+    ::-webkit-scrollbar {
+        height: 3px;
+      }
+    div .highlight{
+        padding-left: 8px;
+        padding-right: 0px;
+    }
+    pre .highlight{
+        padding-left: 8px;
+        padding-right: 0px;
+    }
+}

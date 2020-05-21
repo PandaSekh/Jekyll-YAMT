@@ -1,0 +1,41 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+    a{
+        text-decoration: none;
+        color: black;
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+
+p, ul, ol{
+    font-family: 'PT Serif', serif;
+    li{
+      font-family: 'PT Serif', serif;
+      font-size: 1.15rem;
+    }
+}
+
+h2{
+    margin-bottom: 0px;
+}
+
+h3{
+    font-size: 1.4rem;
+}
+h4{
+    font-size: 1.3rem;
+}
+h5{
+    font-size: 1.2rem;
+}
+
+p{
+    font-size: 1.15rem;
+}
+
+a{
+    font-family: 'PT Serif', serif;
+}

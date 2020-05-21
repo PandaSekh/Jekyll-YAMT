@@ -1,0 +1,130 @@
+//Colors
+$base: #a2a2a2;
+$light-grey: #ebebeb;
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+.task-list{
+  list-style: none;
+}
+
+//Disqus
+#load-comments{
+    border: 1px solid #e0e0e0;
+    border-radius: 3px;
+    padding: 15px 35px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    text-align: center;
+    max-width: fit-content;
+    //Make text not selectable
+    -webkit-user-select: none;      
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none;
+    color: $base;
+}
+
+#load-comments:hover{
+  cursor: pointer;
+  color: black;
+  background-color: $light-grey;
+}
+//End Disqus
+
+//Alerts
+.alert{
+  padding: 20px;
+  border-radius: 0 4px 4px 0;
+  color: #fff;
+  display: block;
+  font-size: larger;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.y{
+  background-color: #f3b244;
+  border-left: 7px solid #dc900e;
+}
+
+.g{
+  background-color: #60c17d;
+  border-left: 7px solid #55ab6f;
+}
+
+.r{
+  background-color: #e45454;
+  border-left: 7px solid #cb2020;
+}
+//End Alerts
+
+//Blockquote
+blockquote {
+  border-left: .25em solid #dfe2e5;
+  color: #6a737d;
+  padding: 0 1em;
+  cite{
+    display: inline-block;
+    margin-top: 50px;
+    cite::before{
+      content: "- ";
+      margin-left: 10px;
+    }
+  }
+}
+//End Blockquote
+
+//MathJAX
+.MathJax_Display{
+  .MathJax {
+  font-size: 1.2rem;
+  }
+}
+
+//ToC
+#markdown-toc::before {
+  content: "Contents";
+  font-size: 1.1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+#markdown-toc ul {
+  list-style: disc;
+}
+
+#markdown-toc {
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  padding: 1.5em;
+  list-style: disc;
+  display: inline-block;
+  background-color: $light-grey;
+  line-height: 25px;
+  li{
+    a{
+      font-family: 'PT Serif', serif;
+      text-decoration: none;
+    }
+    a:hover{
+      font-style: italic;
+    }
+  }
+}
+
+.lazy{
+  padding-bottom: calc(height/width * 100%);
+}

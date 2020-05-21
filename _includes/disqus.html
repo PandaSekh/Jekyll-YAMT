@@ -1,0 +1,19 @@
+<section class="disqus">
+    <p id="load-comments" onclick="loadDisqus()">Load Comments</p>
+    <div id="disqus_thread"></div>
+
+    <script id="loadDisqus" type="text/javascript">
+      var disqus_loaded = false;
+      var disqus_shortname = "{{ site.data.settings.disqus.disqus_shortname }}";
+      var disqus_identifier = "{{ page.url }}";
+      function loadDisqus() {
+        var e = document.createElement('script'); 
+        e.type = 'text/javascript'; 
+        e.async = true;
+        e.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(e);
+        document.getElementById("load-comments").style.display = "none";
+      };
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments.</a></noscript>
+</section>
