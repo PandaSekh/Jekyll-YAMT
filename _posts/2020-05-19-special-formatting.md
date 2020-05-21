@@ -2,7 +2,7 @@
 title: Special Formatting
 layout: post
 categories: [Tips, Markdown, Typography]
-image: /img/forest-snow.jpg
+image: /assets/img/forest-snow.jpg
 description: "A bunch of tips on how to format your text."
 customexcerpt: "Learn and discover the special features of YAMT."
 ---
@@ -19,7 +19,7 @@ Code:
 {:toc}
 ``` 
 
-### Code Highlight
+### Syntax Highlight
 In YAMT you can highlight code in various ways.
 
 Basic example:

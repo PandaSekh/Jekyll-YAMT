@@ -18,14 +18,23 @@ header{
     overflow: hidden;
   
     #site_title{
+        text-align: center;
+        color: black;
         a{
             text-decoration: none;
-            text-align: center;
-            color: black;
+        }
+        h1{
+            margin-bottom: 0px;
+        }
+        h2{
+            margin-top: 0px;
+            font-style: oblique;
+            font-size: 1.2rem;
         }
     }
     #subheader{
         display: block;
+        margin-top: 15px;
             .pages{
                 display: block;
                 float: left;
@@ -45,6 +54,11 @@ header{
                 float: right;
                 i{
                     margin-right: 3px;
+                    -o-transition: .5s;
+                    -ms-transition: .5s;
+                    -moz-transition: .5s;
+                    -webkit-transition: .5s;
+                    transition: .5s;
                 }
                 a{
                     color: $base;
@@ -66,6 +80,24 @@ header{
                 }
                 #envelope:hover{
                     color: $mail;
+                }
+                #instagram:hover{
+                    color: $instagram;
+                }
+                #facebook:hover{
+                    color: $facebook;
+                }
+                #messenger:hover{
+                    color: $messenger;
+                }
+                #youtube:hover{
+                    color: $youtube;
+                }
+                #whatsapp:hover{
+                    color: $whatsapp;
+                }
+                #reddit:hover{
+                    color: $reddit;
                 }
             }
         }

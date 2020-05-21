@@ -1,20 +1,41 @@
 # Site settings
-title: Yet Another Minimal Theme
+title: YAMT
 description: "Yet Another Minimal Theme"
 url:  "https://yamt.netlify.app"
 author:
   name: "Alessio Franceschi"
   email: "alessiofranceschi2@gmail.com"
   url: "https://alessiofranceschi.me"
-
 permalink: /:year/:month/:day/:title:output_ext
 
-
+#Plugins
 plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
 paginate: 3
 paginate_path: "/page:num/"
+
+#SEO
+twitter:
+  username: pandasekh
+  card: summary
+facebook:
+  app_id: # Facebook app ID for Facebook insights
+  publisher: # Facebook page URL or ID of the publishing entity
+  admins: # Facebook user ID for domain insights linked to a personal account
+logo: /assets/img/logo.jpg
+social:
+  links: #List your social links here
+    - https://twitter.com/PandaSekh
+    - https://www.github.com/pandasekh
+    - https://www.linkedin.com/in/alessio-franceschi/
+webmaster_verifications:
+  google: 
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+lang: en_US
 
 #Highlighter
 kramdown:
@@ -33,26 +54,3 @@ kramdown:
 sass:
   style: compressed
   sourcemap: never
-
-#SEO
-twitter:
-  username: pandasekh
-  card: summary
-facebook:
-  app_id: # Facebook app ID for Facebook insights
-  publisher: # Facebook page URL or ID of the publishing entity
-  admins: # Facebook user ID for domain insights linked to a personal account
-logo: /img/logo.jpg
-social:
-  links: #List your social links here
-    - https://twitter.com/PandaSekh
-webmaster_verifications:
-  google: 
-  bing: 
-  alexa: 
-  yandex: 
-  baidu: 
-lang: en_US
-
-
-

@@ -1,9 +1,21 @@
 #Google Analytics
 analytics-id: #leave blank to not use Analytics
 
-#Disqus
-disqus:
-  disqus_shortname: "pandasekh" #Your disqus shortname. Leave blank to deactivate disqus comments
+#Subtitle
+subtitle:
+  active: true
+  text: Yet Another Minimal Theme
+
+#Nav 
+nav:
+  pages:
+    active: true
+  social:
+    active: true
+
+#Featured images in homepage
+featured-img:
+  active: true
 
 #Show categories at the end of posts
 categories:
@@ -21,3 +33,7 @@ mathjax:
 related-posts:
   active: true
   title: "You May Also Enjoy"
+
+#Disqus
+disqus:
+  disqus_shortname: "your_username" #Your disqus shortname. Leave blank to deactivate disqus comments
