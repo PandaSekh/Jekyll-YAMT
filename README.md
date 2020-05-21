@@ -23,6 +23,7 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - [License](#license)
 
 ## Features
+
 - Minimal and clean design.
 - Fully modular: activate and load only what you really need.
 - Works great on mobile and smaller screens.
@@ -34,15 +35,18 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
 
 ## Installation
+
 There are four way to use YAMT: Netlify (suggested, as this theme has a contact module built-in working only on Netlify), Github Pages, as a gem-based theme, by forking this repo or by copying all the files into your directory.
 
 ### Netlify
+
 1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate). You can copy only master, set it to private or public and name it however you want.
 2. Go to [Netlify](https://app.netlify.com/), create a New site from Git, choose your repo or all repos, no difference. Back to Netlify, select the recently forked repo.
 3. Owner and branch are good to go. In build command write `bundle exec jekyll build` and publishing directory should be `_site/`.
 4. Deploy. Your site will shortly be available. Under domain settings you can change your subdomain, or add a primary level one. 
 
 ### Github Pages
+
 Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/options/) to build jekyll websites, which disable custom plugins, caching to disk and ignore symbolic links. Because of that, I suggest you to use any other method. Netlify works great with a 5 minute config, so I suggest you use it.
 
 1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate).
@@ -50,6 +54,7 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
 3. Publish your website and choose gh-pages as the target branch.
 
 ### Remote theme
+
 [Follow these instructions](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll).
 
 ### Gem-based theme 
@@ -79,22 +84,33 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
 
 
 ## Customize
-YAMT is easily customizable. Most of the customizable things are self-explanatory and found in the _data folder and in the _config.yml.
+
+YAMT is easily customizable. If you don't need a functionality, just deactivate it in _data/settings.yml.
+Most of the customizable things are self-explanatory and found in the _data folder and in the _config.yml.
 
 ### Basics
+
 Under the _data folder there are three files: pages, settings and social.
 In pages you can add other pages that will show up in the nav-
 In social you can add your socials that will show up in the nav. To add a social, find a suitable icon on [FontAwesome](https://fontawesome.com/) and add it's name in the name tag.
 Brand defines Font Awesome's font type (fas is solid, fab is brand).
+Out of the box this theme has support colors for a bunch of social. If your social isn't supported, just add the color in the header.css 
+
+In settings.yml you can activate or deactivate various functions of the theme, like analytics, disqus comments, related posts and so on.
 
 ### Header
+In _data/settings.yml you can choose to hide or show the subtitle, the page navigation or the social icons.
 
 ### Home
+In _data/settings.yml you can choose to hide or show the posts infos (date and read-time) and the featured image.
 
 ### Post
-
+In _data/settings.yml you can choose to hide or show the post infos, categories, related posts and comments.
+Note that by removing categories the Categories Archives will no longer be reachable.
 
 ## Development
+
+[Contributions are welcomed and encouraged](https://github.com/PandaSekh/Jekyll-YAMT/issues).
 
 To set up your environment to develop this theme, run `bundle install`.
 
@@ -105,7 +121,8 @@ To add a custom directory to your theme-gem, please edit the regexp in `yamt.gem
 
 ## Credits
 Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).  
-Also great help from [this blog](https://blog.webjeda.com/), I've used this even before I created this theme.
+Also great help from [this blog](https://blog.webjeda.com/), I've used this even before I created this theme.  
+Images from [Unsplash](https://unsplash.com/).
 
 ## License
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).

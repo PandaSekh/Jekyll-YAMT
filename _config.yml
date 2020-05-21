@@ -12,7 +12,7 @@ permalink: /:year/:month/:day/:title:output_ext
 plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
-paginate: 5
+paginate: 3
 paginate_path: "/page:num/"
 
 #SEO

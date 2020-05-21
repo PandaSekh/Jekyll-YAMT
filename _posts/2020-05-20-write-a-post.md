@@ -17,3 +17,5 @@ image: /assets/img/helloworld.jpg
 description: "Say hello to the world!"
 customexcerpt: "Custom excerpt for the homepage"
 {% endhighlight %}
+
+Tags can be used but are not necessary, as related posts use categories.
