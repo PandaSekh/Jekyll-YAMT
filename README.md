@@ -145,4 +145,4 @@ Also great help from [this blog](https://blog.webjeda.com/), I've used this even
 Images from [Unsplash](https://unsplash.com/).
 
 ## License
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The theme is available as open source under the terms of the [MIT License](https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt).
