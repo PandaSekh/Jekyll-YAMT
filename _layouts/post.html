@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+
+<body>
+
+  <div class="container">
+    {% include header.html %}
+
+    <div class="post-container">
+      <article id = "post">
+        <h2 id = "post-title">{{ page.title }}</h2>
+
+  {% if site.data.settings.date-under-post.active %}
+  <div class = "post-info">
+    <span>
+        <i class="far fa-calendar" aria-hidden="true"></i> <span>{{ page.date | date_to_string }}</span> - <i class="far fa-clock"></i> {% include reading_time.html %}
+    </span>
+  </div>
+  {% endif %}
+        {{ content }}
+      </article>
+    </div>
+    {% if site.data.settings.categories.active %}
+      {% include categories.html %}
+    {% endif %}
+
+    {% if site.data.settings.related-posts.active %}
+      {% include related-posts.html %}
+    {% endif %}
+
+    {% if site.data.settings.disqus.disqus_shortname %}
+      {% include disqus.html %}
+    {% endif %}
+  </div>
+
+{%- include footer.html -%}
+
+{% if site.data.settings.mathjax.active %}
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
+</body>
+</html>

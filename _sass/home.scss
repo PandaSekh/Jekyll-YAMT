@@ -1,0 +1,37 @@
+//Mixins
+@mixin border($amount){
+    -webkit-border-radius: $amount;    
+    -moz-border-radius: $amount;
+    -khtml-border-radius: $amount;
+    border-radius: $amount; 
+}
+
+
+.featured-img-container{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    img{
+        max-width: 100%;
+        height: auto;
+        max-height: 450px;
+        @include border(7px);
+    }
+}
+
+.continue-reading{
+    a{
+        color: $base;
+        text-decoration: none;
+        font-style: italic;
+        font-size: 0.96rem;
+    }
+    a:hover{
+        color: black;
+    }
+}
+
+.post-info{
+    font-size: 1rem;
+    color: $base;
+    font-family: 'PT Serif', serif;
+}

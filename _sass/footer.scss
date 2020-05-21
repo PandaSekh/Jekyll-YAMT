@@ -1,0 +1,24 @@
+.footer{
+    p{
+        text-align: center;
+        font-size: 0.85rem;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        text-decoration: underline;
+    }
+    a:visited{
+       color: $base; 
+    }
+}
+
+.footer::before{
+    display: block;
+    content: '';
+    width: 5rem;
+    height: 1px;
+    margin: 23px auto;
+    background-color: #d5d5d5;
+}
