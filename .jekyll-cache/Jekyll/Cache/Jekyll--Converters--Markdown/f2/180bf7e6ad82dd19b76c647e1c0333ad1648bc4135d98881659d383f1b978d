@@ -1,0 +1,11 @@
+I"Ú<h3 id="front-matter">Front Matter</h3>
+<p>Example of a full Front Matter:</p>
+
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="na">title</span><span class="pi">:</span> <span class="s">Hello World</span>   
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">Hello</span><span class="pi">,</span> <span class="nv">World</span><span class="pi">]</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">hello</span><span class="pi">,</span> <span class="nv">world</span><span class="pi">]</span>
+<span class="na">image</span><span class="pi">:</span> <span class="s">/assets/img/helloworld.jpg</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Say</span><span class="nv"> </span><span class="s">hello</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">world!"</span>
+<span class="na">customexcerpt</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Custom</span><span class="nv"> </span><span class="s">excerpt</span><span class="nv"> </span><span class="s">for</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">homepage"</span></code></pre></figure>
+:ET

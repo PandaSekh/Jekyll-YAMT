@@ -1,0 +1,25 @@
+I"�<p>Welcome to YAMT - Yet Another Minimal Theme! This is, of course, just another minimal theme for Jekyll, built with speed and ease of customization in mind.
+In this post I’ll show you the basic features of YAMT and the more advanced ones.</p>
+
+<ul id="markdown-toc">
+  <li><a href="#getting-started" id="markdown-toc-getting-started">Getting started</a></li>
+  <li><a href="#basic-features" id="markdown-toc-basic-features">Basic Features</a></li>
+  <li><a href="#advanced-features" id="markdown-toc-advanced-features">Advanced Features</a></li>
+</ul>
+
+<h2 id="getting-started">Getting started</h2>
+<p>Want to start using YAMT right away? Start by reading <a href="/2020/01/15/getting-started.html">this Getting Started</a> post.</p>
+
+<h2 id="basic-features">Basic Features</h2>
+<ul>
+  <li>Minimal and clean theme, lightweight and optimized for mobile;</li>
+  <li>Easily customizable;</li>
+  <li><a href="2020/05/19/special-formatting.html#code-highlight">Great code highlighting</a>.</li>
+</ul>
+
+<h2 id="advanced-features">Advanced Features</h2>
+<ul>
+  <li>Works out of the box with <a href="https://netlify.com">Netlify</a>’s form handler.</li>
+  <li><a href="/2020/05/19/special-formatting.html#mathjax-and-latex">MathJAX and LaTeX full support</a>.</li>
+</ul>
+:ET

@@ -1,0 +1,120 @@
+I"Y$<p>In this post I will showcase some of the “special” features of YAMT.
+This post is pretty long, so let’s start with a Table of Content (ToC).</p>
+
+<h3 id="table-of-contents">Table of Contents</h3>
+<ul id="markdown-toc">
+  <li><a href="#table-of-contents" id="markdown-toc-table-of-contents">Table of Contents</a></li>
+  <li><a href="#code-highlight" id="markdown-toc-code-highlight">Code Highlight</a></li>
+  <li><a href="#mathjax-and-latex" id="markdown-toc-mathjax-and-latex">MathJAX and LaTeX</a></li>
+  <li><a href="#alerts" id="markdown-toc-alerts">Alerts</a></li>
+</ul>
+
+<p>Code:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* random line to make it work. This will be removed.
+{:toc}
+</code></pre></div></div>
+
+<h3 id="code-highlight">Code Highlight</h3>
+<p>In YAMT you can highlight code in various ways.</p>
+
+<p>Basic example:</p>
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span> <span class="o">(</span><span class="nc">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">){</span>
+    <span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">"Hello World!"</span><span class="o">);</span>
+<span class="o">}</span>
+</code></pre></div></div>
+<p>Code:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    ``` lang
+        //your code 
+    ```
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p>Example:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span> <span class="o">(</span><span class="nc">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">){</span>
+    <span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">"Hello World!"</span><span class="o">);</span>
+<span class="o">}</span></code></pre></figure>
+
+<p>Code:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    {/% highlight lang %}
+        //your code 
+    {/% endhighlight java %}
+    //Remove the "/" before the "%" to make it work.
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p>With line numbers:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="code"><pre><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span> <span class="o">(</span><span class="nc">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">){</span>
+    <span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">"Hello World!"</span><span class="o">);</span>
+<span class="o">}</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p>Code:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    {/% highlight lang linenos%}
+        //your code 
+    {/% endhighlight java %}
+    //Remove the "/" before the "%" to make it work.
+</code></pre></div></div>
+
+<p><br /></p>
+
+<p>In case of a longer line, an horizontal scrollbar will be added automatically:</p>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+</pre></td><td class="code"><pre><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span> <span class="o">(</span><span class="nc">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">){</span>
+    <span class="nc">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">"Hello World! This is a very long line of code, perharps too long..."</span><span class="o">);</span>
+<span class="o">}</span>
+</pre></td></tr></tbody></table></code></pre></figure>
+
+<p><br />
+List of supported languages: <a href="https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers">Rouge Wiki</a>.</p>
+
+<p><strong>Note</strong>: In /assets/css/syntax.css you can change the first declaration to choose if you want a scrollbar or text wrap.</p>
+
+<h3 id="mathjax-and-latex">MathJAX and LaTeX</h3>
+<p>YAMT supports LaTeX and MathJAX to write beautiful math.
+There are three ways to write math in YAMT. In this example I’ll use Bernoulli’s principle.</p>
+<blockquote>
+  <p>In fluid dynamics, Bernoulli’s principle states that an increase in the 
+speed of a fluid occurs simultaneously with a decrease in static pressure or a decrease in the fluid’s potential energy.<br />
+<cite><a href="https://en.wikipedia.org/wiki/Bernoulli%27s_principle">Wikipedia</a></cite></p>
+</blockquote>
+
+<p>Block:</p>
+
+\[\frac{v^2} {2} + {g}{z} + \frac{p} {ρ} = constant\]
+
+<figure class="highlight"><pre><code class="language-tex" data-lang="tex"><span class="p">$$</span><span class="nb">  </span><span class="nv">\frac</span><span class="p">{</span><span class="nb">v</span><span class="p">^</span><span class="m">2</span><span class="p">}</span><span class="nb"> </span><span class="p">{</span><span class="m">2</span><span class="p">}</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="p">{</span><span class="nb">g</span><span class="p">}{</span><span class="nb">z</span><span class="p">}</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="nv">\frac</span><span class="p">{</span><span class="nb">p</span><span class="p">}</span><span class="nb"> </span><span class="p">{</span><span class="nb">ρ</span><span class="p">}</span><span class="nb"> </span><span class="o">=</span><span class="nb"> constant </span><span class="p">$$</span></code></pre></figure>
+
+<p>Inline: \(\frac{v^2} {2} + {g}{z} + \frac{p} {ρ} = constant\)</p>
+
+<figure class="highlight"><pre><code class="language-tex" data-lang="tex"><span class="p">$$</span><span class="nb">  </span><span class="nv">\frac</span><span class="p">{</span><span class="nb">v</span><span class="p">^</span><span class="m">2</span><span class="p">}</span><span class="nb"> </span><span class="p">{</span><span class="m">2</span><span class="p">}</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="p">{</span><span class="nb">g</span><span class="p">}{</span><span class="nb">z</span><span class="p">}</span><span class="nb"> </span><span class="o">+</span><span class="nb"> </span><span class="nv">\frac</span><span class="p">{</span><span class="nb">p</span><span class="p">}</span><span class="nb"> </span><span class="p">{</span><span class="nb">ρ</span><span class="p">}</span><span class="nb"> </span><span class="o">=</span><span class="nb"> constant </span><span class="p">$$</span></code></pre></figure>
+
+<p>Another block:
+\[ \frac{v^2} {2} + {g}{z} + \frac{p} {ρ} = constant \]</p>
+
+<figure class="highlight"><pre><code class="language-tex" data-lang="tex"><span class="k">\\</span><span class="na">[ \frac{v^2} {2} + {g}{z} + \frac{p} {ρ} = constant \\]</span></code></pre></figure>
+
+<p>Another inline: \( \frac{v^2} {2} + {g}{z} + \frac{p} {ρ} = constant \)</p>
+
+<figure class="highlight"><pre><code class="language-tex" data-lang="tex"><span class="k">\\</span>( <span class="k">\frac</span><span class="p">{</span>v<span class="p">^</span>2<span class="p">}</span> <span class="p">{</span>2<span class="p">}</span> + <span class="p">{</span>g<span class="p">}{</span>z<span class="p">}</span> + <span class="k">\frac</span><span class="p">{</span>p<span class="p">}</span> <span class="p">{</span>ρ<span class="p">}</span> = constant <span class="k">\\</span>)</code></pre></figure>
+
+<h3 id="alerts">Alerts</h3>
+<p><span class="alert r">Warning!</span></p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;span</span> <span class="na">class = </span><span class="s">"alert r"</span><span class="nt">&gt;&lt;/span&gt;</span>
+</code></pre></div></div>
+<p><span class="alert g">Solved.</span></p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;span</span> <span class="na">class = </span><span class="s">"alert g"</span><span class="nt">&gt;&lt;/span&gt;</span>
+</code></pre></div></div>
+<p><span class="alert y">Careful.</span></p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;span</span> <span class="na">class = </span><span class="s">"alert y"</span><span class="nt">&gt;&lt;/span&gt;</span>
+</code></pre></div></div>
+:ET
