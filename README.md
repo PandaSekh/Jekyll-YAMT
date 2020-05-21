@@ -14,7 +14,9 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customize](#options)
+  - [Basics](#Basics)
   - [Header](#header)
+  - [Home](#home)
   - [Post](#post)
 - [Development](#development)
 - [Credits](#credits)
@@ -30,7 +32,6 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
 - [RSS](https://github.com/jekyll/jekyll-feed) support.
 - Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
-- 
 
 ## Installation
 There are four way to use YAMT: Netlify (suggested, as this theme has a contact module built-in working only on Netlify), Github Pages, as a gem-based theme, by forking this repo or by copying all the files into your directory.
@@ -44,33 +45,24 @@ There are four way to use YAMT: Netlify (suggested, as this theme has a contact 
 ### Github Pages
 Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/options/) to build jekyll websites, which disable custom plugins, caching to disk and ignore symbolic links. Because of that, I suggest you to use any other method. Netlify works great with a 5 minute config, so I suggest you use it.
 
+1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate).
+2. Create a new branch in your repo and call it `gh-pages`.
+3. Publish your website and choose gh-pages as the target branch.
 
 ### Remote theme
-1. Have a gemfile with only the following content:
-
-    ```ruby
-    source "https://rubygems.org"
-
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
-2. Run the following command:
-
-   ```bash
-   bundle
-   ```
+[Follow these instructions](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll).
 
 ### Gem-based theme 
 1. Add this line to your Jekyll site's `Gemfile`:
 
     ```ruby
-    gem "yamt"
+    gem "jekyll-yamt"
     ```
 
 2. And add this line to your Jekyll site's `_config.yml`:
 
     ```yaml
-    theme: yamt
+    theme: jekyll-yamt
     ```
 
 3. And then execute:
@@ -82,12 +74,28 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
 4. Or install it yourself as:
     
     ``` bash
-    $ gem install yamt
+    $ gem install jekyll-yamt
     ```
 
 ## Usage
 
 TODO: Write usage instructions here. Describe your available layouts, includes, sass and/or assets.
+
+## Customize
+YAMT is easily customizable. Most of the customizable things are self-explanatory and found in the _data folder and in the _config.yml.
+
+### Basics
+Under the _data folder there are three files: pages, settings and social.
+In pages you can add other pages that will show up in the nav-
+In social you can add your socials that will show up in the nav. To add a social, find a suitable icon on [FontAwesome](https://fontawesome.com/) and add it's name in the name tag.
+Brand defines Font Awesome's font type (fas is solid, fab is brand).
+
+### Header
+
+### Home
+
+### Post
+
 
 ## Development
 
@@ -100,7 +108,7 @@ To add a custom directory to your theme-gem, please edit the regexp in `yamt.gem
 
 ## Credits
 Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).
+Great help from [this blog](https://blog.webjeda.com/), I've used this even before I created this theme.
 
 ## License
-
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
