@@ -12,6 +12,7 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 ## Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Customize](#options)
   - [Basics](#Basics)
@@ -35,11 +36,16 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - [RSS](https://github.com/jekyll/jekyll-feed) support.
 - Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
 
+## Screenshots
+
 Mobile:  
 ![Mobile](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_mobile.png?raw=true)
 
 Code Highlight:  
 ![Code](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_code_highlight.png)
+
+Minimal:  
+![Minimal](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_minimal.png?raw=true)
 
 ## Installation
 
@@ -94,8 +100,6 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
 
 YAMT is easily customizable. If you don't need a functionality, just deactivate it in _data/settings.yml.
 Most of the customizable things are self-explanatory and found in the _data folder and in the _config.yml.
-
-![Minimal](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_minimal.png?raw=true)
 
 ### Basics
 
