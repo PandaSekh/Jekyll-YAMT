@@ -23,4 +23,4 @@ related-posts:
   title: "You May Also Enjoy"
 
 lazyload:
-  active: false
+  active: true
