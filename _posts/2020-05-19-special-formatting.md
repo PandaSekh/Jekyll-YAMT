@@ -19,7 +19,7 @@ Code:
 {:toc}
 ``` 
 
-### Code Highlight
+### Syntax Highlight
 In YAMT you can highlight code in various ways.
 
 Basic example:

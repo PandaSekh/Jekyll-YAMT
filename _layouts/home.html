@@ -5,15 +5,17 @@ title: Home
 {% for post in paginator.posts %}
 
 <div class="post">
-    <h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+    <h2 id = "post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 
+    {% if site.data.settings.date-under-post.active %} 
     <div class = "post-info">
         <span>
             <i class="far fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time> - <i class="far fa-clock"></i> {% include reading_time.html %}
         </span>
     </div>
+    {% endif %}
 
-    {% if post.image %}
+    {% if post.image and site.data.settings.featured-img.active%}
     <div class = "featured-img-container">
         <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"><img src="{{ post.image }}"/></a>
     </div>

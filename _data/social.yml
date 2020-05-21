@@ -1,5 +1,5 @@
 # These are the socials supported by default. If you want to add one which isn't present, find the icon name on https://fontawesome.com/
-# and add it's color in /_sass/social.scss. Brand defines Font Awesome's font type.
+# and add it's color in /_sass/social.scss. Brand defines Font Awesome's font type (fas is solid, fab is brand).
 
 
 social:

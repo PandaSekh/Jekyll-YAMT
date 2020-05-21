@@ -19,9 +19,20 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
   - [Header](#header)
   - [Post](#post)
 - [Development](#development)
+- [Credits](#credits)
 - [License](#license)
 
 ## Features
+- Minimal and clean design.
+- Fully modular: activate and load only what you really need.
+- Works great on mobile and smaller screens.
+- Supports [Disqus](https://disqus.com/) comments activated only on button press, if you activate them.
+- [Google Analytics](https://www.google.com/analytics/) support.
+- [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) support to better index the website content on search engines and social networks.
+- [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
+- [RSS](https://github.com/jekyll/jekyll-feed) support.
+- Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
+- 
 
 ## Installation
 There are four way to use YAMT: Netlify (suggested, as this theme has a contact module built-in working only on Netlify), Github Pages, as a gem-based theme, by forking this repo or by copying all the files into your directory.
@@ -86,6 +97,9 @@ Your theme is setup just like a normal Jekyll site! To test your theme, run `bun
 
 When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
 To add a custom directory to your theme-gem, please edit the regexp in `yamt.gemspec` accordingly.
+
+## Credits
+Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).
 
 ## License
 
