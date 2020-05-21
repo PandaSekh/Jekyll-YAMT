@@ -95,7 +95,7 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
 YAMT is easily customizable. If you don't need a functionality, just deactivate it in _data/settings.yml.
 Most of the customizable things are self-explanatory and found in the _data folder and in the _config.yml.
 
-![Minimal]https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_minimal.png?raw=true)
+![Minimal](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_minimal.png?raw=true)
 
 ### Basics
 
