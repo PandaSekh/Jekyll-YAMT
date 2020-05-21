@@ -124,3 +124,7 @@ blockquote {
     }
   }
 }
+
+.lazy{
+  padding-bottom: calc(height/width * 100%);
+}

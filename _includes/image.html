@@ -1,0 +1,7 @@
+<div>
+{% if include.src and site.data.settings.lazyload.active %}
+    <img data-src="{{include.src}}" alt="{{include.alt}}" title="{{include.title}}" class="lazy"/>
+{% else %}
+    <img src="{{include.src}}" alt="{{include.alt}}" title="{{include.title}}"/>
+{% endif %}
+</div>

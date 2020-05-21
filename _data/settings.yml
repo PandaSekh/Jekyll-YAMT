@@ -21,3 +21,6 @@ mathjax:
 related-posts:
   active: true
   title: "You May Also Enjoy"
+
+lazyload:
+  active: false
