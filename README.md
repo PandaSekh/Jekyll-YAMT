@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-YAMT?label=Fork%20it%21&style=social)
 ## [Live Demo](https://yamt.netlify.app/)
 
-![Homepage](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot.png?raw=true){:height="50%" width="50%"}
+![Homepage](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot.png?raw=true)
 
 YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
 
@@ -34,6 +34,12 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
 - [RSS](https://github.com/jekyll/jekyll-feed) support.
 - Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
+
+Mobile:
+![Mobile](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_mobile.png?raw=true)
+
+Code Highlight:
+![Code](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_code_highlight.png)
 
 ## Installation
 
@@ -88,6 +94,8 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
 
 YAMT is easily customizable. If you don't need a functionality, just deactivate it in _data/settings.yml.
 Most of the customizable things are self-explanatory and found in the _data folder and in the _config.yml.
+
+![Minimal]https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_minimal.png?raw=true)
 
 ### Basics
 
