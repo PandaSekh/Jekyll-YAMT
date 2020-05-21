@@ -44,6 +44,8 @@ There are four way to use YAMT: Netlify (suggested, as this theme has a contact 
 4. Deploy. Your site will shortly be available. Under domain settings you can change your subdomain, or add a primary level one. 
 
 ### Github Pages
+Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/options/) to build jekyll websites, which disable custom plugins, caching to disk and ignore symbolic links. Because of that, I suggest you to use any other method. Netlify works great with a 5 minute config, so I suggest you use it.
+
 
 ### Remote theme
 1. Have a gemfile with only the following content:
