@@ -1,13 +1,18 @@
 language: ruby
-rvm:
- - 2.2
- - jruby
-
+cache: bundler
+branches:
+  only:
+  - master
+script:
+  - JEKYLL_ENV=production bundle exec jekyll build --destination travis_build
 deploy:
   provider: pages
-  skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  keep_history: true
+  local-dir: ./travis_build
+  target-branch: master
+  email: deploy@travis-ci.org
+  name: Deployment Bot
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
   on:
     branch: master
-  local_dir: _site
