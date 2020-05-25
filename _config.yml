@@ -1,8 +1,8 @@
 # Site settings
 title: YAMT
 description: "Yet Another Minimal Theme"
-url:  "https://alessiofranceschi.me" # Actual base url of the website
-baseurl: "Jekyll-YAMT"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+url:  "https://yamt.netlify.app" # Actual base url of the website
+baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Alessio Franceschi"
   email: "alessiofranceschi2@gmail.com"
