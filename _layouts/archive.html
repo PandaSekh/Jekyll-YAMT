@@ -9,7 +9,7 @@ title: Archive
   <h2 class = "archive-date" id = "date-{{post.date | date: "%B %Y"}}">{{ year.name }}</h1>
     <ul>
       {% for post in year.items %}
-        <li><a class = "archive-link" href="{{ post.url }}">{{ post.title }}</a></li>
+        <li><a class = "archive-link" href="{{ post.url | relative_url}}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
 {% endfor %}

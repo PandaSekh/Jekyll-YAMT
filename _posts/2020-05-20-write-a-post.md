@@ -4,6 +4,7 @@ layout: post
 categories: [How-To, Markdown]
 image: /assets/img/airplane.jpg
 description: "Let's get this theme to work!"
+customexcerpt: "Learn how to write a post in YAMT."
 ---
 
 ### Front Matter
@@ -18,4 +19,4 @@ description: "Say hello to the world!"
 customexcerpt: "Custom excerpt for the homepage"
 {% endhighlight %}
 
-Tags can be used but are not necessary, as related posts use categories.
+Tags can be used but are pretty much useless, as related posts use categories.
