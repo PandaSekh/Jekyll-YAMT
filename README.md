@@ -29,6 +29,7 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - Minimal and clean design.
 - Fully modular: activate and load only what you really need.
 - Works great on mobile and smaller screens.
+- Works on Github Pages.
 - Supports [Disqus](https://disqus.com/) comments activated only on button press, if you activate them.
 - [Google Analytics](https://www.google.com/analytics/) support.
 - [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) support to better index the website content on search engines and social networks.
