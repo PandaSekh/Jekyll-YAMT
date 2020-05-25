@@ -5,7 +5,7 @@ title: Contact
 
 <h2>Contact Form</h2>
 <div class = "form">
-    <form name = "contact-form" action="/contact-successful.html" method = "POST" data-netlify="true">
+    <form name = "contact-form" action="{{"/contact-successful.html" | relative_url}}" method = "POST" data-netlify="true">
         <input class = "form-input" type="text" name="name" id="name" placeholder="Name" required><br>
 
         <input class = "form-input"type="mail" name="mail" id="mail" placeholder="Email" required><br>
