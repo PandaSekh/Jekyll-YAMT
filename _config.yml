@@ -2,7 +2,7 @@
 title: YAMT
 description: "Yet Another Minimal Theme"
 url:  "https://yamt.netlify.app"
-baseurl: "/"
+baseurl: "/Jekyll-YAMT/"
 author:
   name: "Alessio Franceschi"
   email: "alessiofranceschi2@gmail.com"
