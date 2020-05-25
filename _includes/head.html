@@ -14,12 +14,12 @@
      {% else %}{{ site.description }}
     {% endif %}">
 
-    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="{{"assets/favicon.ico" | relative_url }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{"assets/favicon.ico" | relative_url }}" type="image/x-icon">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
-    <link rel="stylesheet" href="{{ "/assets/css/syntax.css" | prepend: site.baseurl | replace: '//', '/' }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/syntax.css" | relative_url }}">
 
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
