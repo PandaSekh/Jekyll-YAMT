@@ -6,7 +6,8 @@
       {% assign categories = page.categories %}
     {% endif %}
     {% for category in categories %}
-      <a href="{{ "/categories/#{{category | slugify}}" | relative_url}}">{{category}}</a>
+      <a href="/categories/#{{category | slugify}}">{{category}}</a> 
+      <!-- TODO: use relative_url here. If I use {{ "/categories/#{{category | slugify}}" | relative_url}} it will point to the current post -->
       {% unless forloop.last %}&nbsp;{% endunless %} 
     {% endfor %}
   </span>
