@@ -5,7 +5,7 @@ title: Home
 {% for post in paginator.posts %}
 
 <div class="post">
-    <h2 id = "post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+    <h2 id = "post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url  | relative_url }}{% endif %}">{{ post.title }}</a></h2>
 
     {% if site.data.settings.date-under-post.active %} 
     <div class = "post-info">
@@ -17,7 +17,7 @@ title: Home
 
     {% if post.image and site.data.settings.featured-img.active%}
     <div class = "featured-img-container">
-        <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"><img src="{{ post.image }}"/></a>
+        <a href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}"/></a>
     </div>
     {% endif %}
 
