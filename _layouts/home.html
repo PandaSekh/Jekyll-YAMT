@@ -5,12 +5,14 @@ title: Home
 {% for post in paginator.posts %}
 
 <div class="post">
-    <h2 id = "post-title"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url  | relative_url }}{% endif %}">{{ post.title }}</a></h2>
+    <h2 id = "post-title"><a href="{{ post.url  | relative_url }}">{{ post.title }}</a></h2>
 
     {% if site.data.settings.date-under-post.active %} 
     <div class = "post-info">
         <span>
-            <i class="far fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time> - <i class="far fa-clock"></i> {% include reading_time.html %}
+            <i class="far fa-calendar" aria-hidden="true"></i>
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time> - <i class="far fa-clock"></i> 
+            {% include reading_time.html %}
         </span>
     </div>
     {% endif %}
@@ -27,7 +29,7 @@ title: Home
         {% else %}
             {{ post.content | strip_html | truncatewords:50 }}
         {% endif %}
-        <span class = "continue-reading"><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Continue reading...</a></span>
+        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">Continue reading...</a></span>
     </p> 
 </div>
 {% endfor %}
@@ -36,10 +38,10 @@ title: Home
 <div class = "paginator">
     {% if paginator.total_pages > 1 %}
     {% if paginator.next_page %}
-      <a class = "older paginate-button" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older Posts</a>
+      <a class = "older paginate-button" href="{{ paginator.next_page_path | relative_url }}">Older Posts</a>
     {% endif %}
     {% if paginator.previous_page %}
-    <a class = "newer paginate-button" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer Posts</a>
+    <a class = "newer paginate-button" href="{{ paginator.previous_page_path | relative_url }}">Newer Posts</a>
   {% endif %}
   {% endif %}
 </div>

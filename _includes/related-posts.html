@@ -23,7 +23,7 @@
     
         {% if sameTagCount >= minCommonTags %}
           <div class = "related-posts">
-          <h5><a href="{{ site.baseurl }}{{ post.url }}">• {{ post.title  }}</a></h5>
+          <h5><a href="{{ relative_url }}{{ post.url }}">• {{ post.title  }}</a></h5>
           </div>
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
           {% if maxRelatedCounter >= maxRelated %}
