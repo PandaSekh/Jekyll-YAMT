@@ -126,3 +126,12 @@ Another inline: \\( \frac{v^2} {2} + {g}{z} + \frac{p} {ρ} = constant \\)
 ``` html
 <span class = "alert y"></span>
 ```
+
+### Gifs
+YAMT supports optimized gifs in WebM and MP4 formats. I suggest to use a website like [Convertio](https://convertio.co/it/) to converts your .gifs to WebM and MP4. WebM is the suggested format but it's not supported by every browser (looking at you, Safari), so MP4 is used as fallback. Put both files in the gif folder and insert gifs in your post using
+``` liquid
+{_% include gif.html file = "mygif" %}
+```
+Delete the underscore to make it work.  
+
+If you want to use a gif as featured image, delete the "image" tag in the front matter and use instead the "gif" tag. As a parameter, use the filename without extensions.

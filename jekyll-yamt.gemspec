@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-yamt"
-  spec.version       = "1.0.1"
+  spec.version       = "1.0.2"
   spec.authors       = ["PandaSekh"]
   spec.email         = ["alessiofranceschi2@gmail.com"]
 
