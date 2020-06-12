@@ -1,6 +1,6 @@
 # Site settings
 title: 流浪地 # 博客名称
-description: "帐篷示例"
+description: "Sample Blog"
 url:  "https://cybergipsy2020.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
@@ -27,9 +27,9 @@ facebook:
 logo: /assets/img/logo.jpg # 博客logo，此处引用了路径为“/assets/img/logo.jpg”的图片，可修改
 social:
   links: # 其他链接
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://www.google.com
+    - https://www.github.com/cybergipsy2020
+
 webmaster_verifications:
   google: 
   bing: 
