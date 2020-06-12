@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Yet Another Minimal Theme
+  text: Welcome
 
 #Nav 
 nav:
@@ -36,4 +36,4 @@ related-posts:
 
 #Disqus
 disqus:
-  disqus_shortname: "your_username" #Your disqus shortname. Leave blank to deactivate disqus comments
+  disqus_shortname:  #Your disqus shortname. Leave blank to deactivate disqus comments
