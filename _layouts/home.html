@@ -34,7 +34,7 @@ title: Home
         {% else %}
             {{ post.content | strip_html | truncatewords:50 }}
         {% endif %}
-        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">Continue reading...</a></span>
+        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">继续阅读...</a></span>
     </p> 
 </div>
 {% endfor %}
