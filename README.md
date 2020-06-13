@@ -9,7 +9,7 @@
 ## 搭建博客
 
 - 创建一个Github账号
-- 在[https://github.com/cybergipsy2020/cybergipsy2020.github.io](https://github.com/cybergipsy2020/cybergipsy2020.github.io)点击`Fork`。
+- 在[https://github.com/cybergipsy2020/cybergipsy2020.github.io](https://github.com/cybergipsy2020/cybergipsy2020.github.io)点击右上的`Fork`。
 - 等待片刻，然后点右上角的图标，进入`Your repositories`，然后进入`cybergipsy2020.github.io`。
 - 你现在在`coding`的tab，点开最右边的`settings`，将`cybergipsy2020.github.io`改成你的用户名，比如`username.github.io`。
   - 如果你看到你的repository的名字变成`username / username.github.io`，那说明你成功了。
@@ -50,7 +50,7 @@ customexcerpt: "博文摘要"
 - 自己搭建博客的好处我就就不重申了。搭建博客的上限很高，这只是最基础的让你快速拥有一个博客的方法。
 - 这个是搭在[Jekyll-YAMT](https://github.com/PandaSekh/Jekyll-YAMT)主题的一个博客。
   - 更多自定义本主题的方法在文件夹`_data`中还有一些，可以点开后摸索。更详细例如添加页面、添加图片、添加外链、导入文章可以看链接中的原主题+自己搜索，也可以私信我。我有机会可能也会更新一些。
-- 如果感兴趣更多可以来这个搭博客群大家共同进步：`974862920`。赛博流浪者们，是时候拿起自己科技的武器了。
+- 如果感兴趣更多可以来这个搭博客群大家共同进步：`974862920`。赛博流浪者们，是时候拿起科技的武器了。
 
 
 
