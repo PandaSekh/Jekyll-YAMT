@@ -11,8 +11,7 @@ title: Home
     <div class = "post-info">
         <span>
             <i class="far fa-calendar" aria-hidden="true"></i>
-            <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time> - <i class="far fa-clock"></i> 
-            {% include reading_time.html %}
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time> 
         </span>
     </div>
     {% endif %}
