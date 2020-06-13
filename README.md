@@ -5,8 +5,8 @@
 如果Github上传下载速度还可以，建议简单学习git，git clone以后在本地修改然后上传。
 
 
-
-## 搭建博客
+## 开始
+### 搭建博客
 
 - 创建一个Github账号
 - 在[https://github.com/cybergipsy2020/cybergipsy2020.github.io](https://github.com/cybergipsy2020/cybergipsy2020.github.io)点击右上的`Fork`。
@@ -20,7 +20,10 @@
     - 可以对比`https://username.github.io`博客显示出来的内容进行修改。
     - `#`符号以后的内容是评论，不会在博客显示出来。
 
-## 创建新文章
+### 修改关于页面
+- 找到`about.md`文件，在其中进行修改。
+
+### 创建新文章
 
 - 进入`_posts`文件夹，点击`Create new file`。
 - 在`Name your file`处填入`YYYY-MM-DD-文章名.md`。
@@ -42,6 +45,10 @@ customexcerpt: "博文摘要"
 - 接下来添加你的正文。
 - 拉到最下，点`Commit new file`，提交此次修改。
 - 焦虑刷新`https://username.github.io`，直到你的新文章出现。
+
+### 添加图片
+- 在文章的头部，可以在`image:`后添加图片路径。比如`/assets/img/logo.jpg`。
+- 在文章中可以用markdown语法添加图片。格式为`![图片下标](图片路径)`。
 
 
 
