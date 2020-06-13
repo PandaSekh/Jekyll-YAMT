@@ -1,144 +1,62 @@
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
-![supports mathjax](https://img.shields.io/badge/Supports-MathJAX-blue)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-YAMT/issues)
-![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-YAMT?label=Fork%20it%21&style=social)
-## [Live Demo](https://yamt.netlify.app/)
+## 说明
 
-![Homepage](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot.png?raw=true)
+这是一个使用这个框架创造博客的傻瓜方法，Github上传下载速度极其慢的朋友们可以照着这个方法做。
 
-YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
-
-## Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Customize](#options)
-  - [Basics](#Basics)
-  - [Header](#header)
-  - [Home](#home)
-  - [Post](#post)
-  - [Contact Form](#contact-form)
-- [Development](#development)
-- [Credits](#credits)
-- [License](#license)
-
-## Features
-
-- Minimal and clean design.
-- Fully modular: activate and load only what you really need.
-- Works great on mobile and smaller screens.
-- Works on Github Pages.
-- Supports [Disqus](https://disqus.com/) comments activated only on button press, if you activate them.
-- [Google Analytics](https://www.google.com/analytics/) support.
-- [Open Graph](https://ogp.me/) and [Twitter Cards](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started) support to better index the website content on search engines and social networks.
-- [MathJAX](https://www.mathjax.org/) and [LaTeX](https://www.latex-project.org/) optional support. Write beautiful math!
-- [RSS](https://github.com/jekyll/jekyll-feed) support.
-- Beautiful [Syntax Highlight](https://yamt.netlify.app/2020/05/19/special-formatting.html#syntax-highlight). Write some code and show it in a graceful way.
-
-## Screenshots
-
-Mobile:  
-![Mobile](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_mobile.png?raw=true)
-
-Code Highlight:  
-![Code](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_code_highlight.png)
-
-Minimal:  
-![Minimal](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot_minimal.png?raw=true)
-
-## Installation
-
-There are four way to use YAMT: Netlify (suggested, as this theme has a contact module built-in working only on Netlify), Github Pages, as a gem-based theme, by forking this repo or by copying all the files into your directory.
-
-### Download the files
-You can [download the files](https://github.com/PandaSekh/Jekyll-YAMT/releases/latest) and add them in your directory to start working.
-
-### Netlify
-
-1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate). You can copy only master, set it to private or public and name it however you want.
-2. Go to [Netlify](https://app.netlify.com/), create a New site from Git, choose your repo or all repos, no difference. Back to Netlify, select the recently forked repo.
-3. Owner and branch are good to go. In build command write `bundle exec jekyll build` and publishing directory should be `_site/`.
-4. Deploy. Your site will shortly be available. Under domain settings you can change your subdomain, or add a primary level one. 
-
-### Github Pages
-
-Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/options/) to build jekyll websites, which disable custom plugins, caching to disk and ignore symbolic links. Because of that, I suggest you to use any other method. Netlify works great with a 5 minute config, so I suggest you use it.
-
-1. [Fork this repo](https://github.com/PandaSekh/Jekyll-YAMT/generate).
-2. Create a new branch in your repo and call it `gh-pages`.
-3. Publish your website and choose gh-pages as the target branch.
-
-### Remote theme
-
-[Follow these instructions](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll).
-
-### Gem-based theme 
-1. Add this line to your Jekyll site's `Gemfile`:
-
-    ```ruby
-    gem "jekyll-yamt"
-    ```
-
-2. And add this line to your Jekyll site's `_config.yml`:
-
-    ```yaml
-    theme: jekyll-yamt
-    ```
-
-3. And then execute:
-
-    ``` bash
-    $ bundle
-    ```
-
-4. Or install it yourself as:
-    
-    ``` bash
-    $ gem install jekyll-yamt
-    ```
+如果Github上传下载速度还可以，建议简单学习git，git clone以后在本地修改然后上传。
 
 
-## Customize
 
-YAMT is easily customizable. If you don't need a functionality, just deactivate it in `_data/settings.yml`.
-Most of the customizable things are self-explanatory and found in the `_data` folder and in the `_config.yml`.
+## 搭建博客
 
-### Basics
+- 创建一个Github账号
+- 在[https://github.com/cybergipsy2020/cybergipsy2020.github.io](https://github.com/cybergipsy2020/cybergipsy2020.github.io)点击`Fork`。
+- 等待片刻，然后点右上角的图标，进入`Your repositories`，然后进入`cybergipsy2020.github.io`。
+- 你现在在`coding`的tab，点开最右边的`settings`，将`cybergipsy2020.github.io`改成你的用户名，比如`username.github.io`。
+  - 如果你看到你的repository的名字变成`username / username.github.io`，那说明你成功了。
+  - 等待一会儿，焦虑刷新`https://username.github.io`，直到你的博客被生成。
+- 点击回到`coding`的tab，寻找`_config.yml`文件并点开。
+  - 点击`Raw|Blame|History`右边第二个笔符号的图标（鼠标悬浮时会出现`Edit this file`），你会进入编辑界面。
+  - 根据提示编辑博客设定，直到满意为止。
+    - 可以对比`https://username.github.io`博客显示出来的内容进行修改。
+    - `#`符号以后的内容是评论，不会在博客显示出来。
 
-Under the `_data` folder there are three files: pages, settings and social.
-In pages you can add other pages that will show up in the nav-
-In social you can add your socials that will show up in the nav. To add a social, find a suitable icon on [FontAwesome](https://fontawesome.com/) and add it's name in the name tag.
-Brand defines Font Awesome's font type (fas is solid, fab is brand).
-Out of the box this theme has support colors for a bunch of social. If your social isn't supported, just add the color in the header.css 
+## 创建新文章
 
-In `settings.yml` you can activate or deactivate various functions of the theme, like analytics, disqus comments, related posts and so on.
+- 进入`_posts`文件夹，点击`Create new file`。
+- 在`Name your file`处填入`YYYY-MM-DD-文章名.md`。
+- 在正文空白处，复制黏贴如下的几行，并按照自己想要的办法修改：
+  - 这是文章的头部信息，每更新新文章时都需要。
 
-### Header
-In `_data/settings.yml` you can choose to hide or show the subtitle, the page navigation or the social icons.
+```
+---
+title: 博文名
+layout: post
+categories: [分类一，分类二]
+image:
+#gif: mygif
+description: "博文介绍"
+customexcerpt: "博文摘要"
+---
+```
 
-### Home
-In `_data/settings.yml` you can choose to hide or show the posts infos (date and read-time) and the featured image.
+- 接下来添加你的正文。
+- 拉到最下，点`Commit new file`，提交此次修改。
+- 焦虑刷新`https://username.github.io`，直到你的新文章出现。
 
-### Post
-In `_data/settings.yml` you can choose to hide or show the post infos, categories, related posts and comments.
-Note that by removing categories the Categories Archives will no longer be reachable.
 
-### Contact Form
-YAMT has a built-in contact form builded using [Netlify](https://app.netlify.com/) free form functionality. To make it work you only need the line `data-netlify="true"` when declaring a form.  
-If you don't want to use Netlify, remove the line `data-netlify="true"`.
 
-## Development
+## 更多说明
 
-[Contributions are welcomed and encouraged](https://github.com/PandaSekh/Jekyll-YAMT/issues).
+- 自己搭建博客的好处我就就不重申了。搭建博客的上限很高，这只是最基础的让你快速拥有一个博客的方法。
+- 这个是搭在[Jekyll-YAMT](https://github.com/PandaSekh/Jekyll-YAMT)主题的一个博客。
+  - 更多自定义本主题的方法在文件夹`_data`中还有一些，可以点开后摸索。更详细例如添加页面、添加图片、添加外链、导入文章可以看链接中的原主题+自己搜索，也可以私信我。我有机会可能也会更新一些。
+- 如果感兴趣更多可以来这个搭博客群大家共同进步：`974862920`。赛博流浪者们，是时候拿起自己科技的武器了。
 
-To set up your environment to develop this theme, run `bundle install`.
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `yamt.gemspec` accordingly.
+
+---
+modified by ipsy
 
 ## Credits
 Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).  
