@@ -10,7 +10,7 @@
 {% endif %}
 
 {% if post.layout == post %}
-  {% assign words = content | number_of_words %}
+  {% assign words = content | strip_html | number_of_words %}
   {% if words < 180 %}
     Less than 1 minute read
   {% elsif words < 360 %}
