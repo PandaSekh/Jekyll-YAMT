@@ -1,6 +1,6 @@
 # Site settings
 title: 流浪地 # 博客名称
-description: "一个简单博客示例"
+description: "Sample Blog"
 url:  "https://cybergipsy2020.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
