@@ -34,8 +34,13 @@
     {% if site.data.settings.disqus.disqus_shortname %}
       {% include disqus.html %}
     {% endif %}
+    
+    {% if site.data.settings.clientID%}
+      {% include gitalk-comment.html %}
+    {% endif %}
+    
   </div>
-
+  
 {%- include footer.html -%}
 
 {% if site.data.settings.mathjax.active %}
