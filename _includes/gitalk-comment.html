@@ -10,7 +10,7 @@
     repo: "{{ site.gittalk.repository }}",
     owner: "{{ site.gittalk.owner }}",
     admin: ["{{ site.gittalk.admin | split: ','  | join: '","'}}"],
-    id: "{{ page.url }}",    // Ensure uniqueness and length less than 50 
+    id: "{{ site.gittalk.id }}",    // Ensure uniqueness and length less than 50 
     distractionFreeMode: false,  // Facebook-like distraction free mode
     perPage: 100
 });
