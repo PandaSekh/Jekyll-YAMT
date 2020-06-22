@@ -35,9 +35,9 @@
       {% include disqus.html %}
     {% endif %}
     
-    
+    {% if site.gittalk.clientID and site.gittalk.clientSecret %}
     {% include gitalk-comment.html %}
-    
+    {% endif %}
     
   </div>
   
