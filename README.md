@@ -55,12 +55,14 @@ customexcerpt: "博文摘要"
 
 我在这个框架内更新了文章评论系统[Gitalk](https://github.com/gitalk/gitalk#Usage)，一个基于Github Issues的博客评论。
 
-1. 确保你的github已登陆，[点这里](https://github.com/settings/applications/new)注册一个OAuth application。
+1. 在`code`的tab那一排中点开`settings`设定，在`Features`中勾选`Issues`，让Issues显示。
+2. 确保你的github已登陆，[点这里](https://github.com/settings/applications/new)注册一个OAuth application。
  - `Application name`：你的用户名，`username`。
  - `Homepage URL`和`Authorization callback UR`L：`https://userrname.github.io`
  - 确认后会出现你的`clientID`和`clientSecret`。
-2. 在`_config.yml`中作出相应修改。
-3. 等待新的博客生成，然后点入你的任何文章，最底下会出现评论系统，第一次使用会需要登陆一下。
+3. 在`_config.yml`中作出相应修改。
+4. 等待新的博客生成，然后点入你的任何文章，最底下会出现评论系统，第一次使用会需要登陆一下。
+5. 你的评论也会在`code`的tab的左边的`Issues`里出现，方便管理。
 
 ### 如何获取获取本博客框架更新 （6/22/2020 更新）
 建立在你已经fork了本博客框架的基础上，如果你还没有fork，可以直接fork并跳过这一步。
