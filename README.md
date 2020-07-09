@@ -74,6 +74,17 @@ customexcerpt: "博文摘要"
 
 **可以在右上角Fork的左边点击Star和Watch，如果我再次更新博客框架你会获得通知。**
 
+### 如何获取获取本博客框架更新 （7/9/2020 更新）
+Fork了其他两个能在Github Pages显示的博客框架：修改方式和本说明类似。
+
+Repo:https://github.com/cybergipsy2020/Pudhina
+
+[示例地址](https://cybergipsy2020.github.io/Pudhina/)
+
+Repo:https://github.com/cybergipsy2020/jekyll-theme-prologue
+
+[示例地址](https://cybergipsy2020.github.io/jekyll-theme-prologue/)
+
 
 ## 更多说明
 
