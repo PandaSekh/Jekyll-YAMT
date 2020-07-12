@@ -12,7 +12,7 @@
 - 在[https://github.com/cybergipsy2020/cybergipsy2020.github.io](https://github.com/cybergipsy2020/cybergipsy2020.github.io)点击右上的`Fork`。
 - 等待片刻，然后点右上角的图标，进入`Your repositories`，然后进入`cybergipsy2020.github.io`。
 - 你现在在`coding`的tab，点开最右边的`settings`，将`cybergipsy2020.github.io`改成你的用户名，比如`username.github.io`。
-  - 如果你看到你的repository的名字变成`username / username.github.io`，那说明你成功了。
+  - 如果你看到你的repository的名字变成`username / username.github.io`，那说明你成功了。**⚠️注意两个username必须一致**
   - 等待一会儿，焦虑刷新`https://username.github.io`，直到你的博客被生成。
 - 点击回到`coding`的tab，寻找`_config.yml`文件并点开。
   - 点击`Raw|Blame|History`右边第二个笔符号的图标（鼠标悬浮时会出现`Edit this file`），你会进入编辑界面。
