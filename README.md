@@ -141,6 +141,7 @@ When your theme is released, only the files in `_layouts`, `_includes`, `_sass` 
 To add a custom directory to your theme-gem, please edit the regexp in `yamt.gemspec` accordingly.
 
 ## Credits
+Theme designed and created by [Alessio Franceschi](https://github.com/PandaSekh/).
 Inspired by [Lagrange by LeNPaul](https://lenpaul.github.io/Lagrange/).  
 Also great help from [this blog](https://blog.webjeda.com/), I've used this even before I created this theme.  
 Images from [Unsplash](https://unsplash.com/).
