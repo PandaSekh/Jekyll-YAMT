@@ -4,8 +4,8 @@ description: "Sample Blog"
 url:  "https://shekelash.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Ipsy" #你的昵称
-  email: "ipsy@email.com" #你的邮箱，可以留空，如果不想被找到建议不要使用实名过的邮箱。
+  name: "shekelash" #你的昵称
+  email: "" #你的邮箱，可以留空，如果不想被找到建议不要使用实名过的邮箱。
   url: "https://shekelash.github.io" # 博客地址
 permalink: /:year/:month/:day/:title:output_ext
 
@@ -24,11 +24,11 @@ facebook:
   app_id: # Facebook app ID for Facebook insights
   publisher: # Facebook page URL or ID of the publishing entity
   admins: # Facebook user ID for domain insights linked to a personal account
-logo: /assets/img/logo.jpg # 博客logo，此处引用了路径为“/assets/img/logo.jpg”的图片，可修改
+logo:  # 博客logo，此处引用了路径为“/assets/img/logo.jpg”的图片，可修改
 social:
   links: # 其他链接
     - https://www.google.com
-    - https://www.github.com/cybergipsy2020
+    - https://www.github.com/shekelash
 
 webmaster_verifications:
   google: 
