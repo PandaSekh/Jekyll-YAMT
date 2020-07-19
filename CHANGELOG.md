@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.4] - 2020-07-19
+### Added
+- Gif used as featured image in the homepage now links to the relative post
+
 ## [1.0.3] - 2020-06-01
 ### Fixed
  - Bug with reading time in homepage. (Thanks to maxgalbu on Github)
