@@ -23,7 +23,7 @@ title: Home
         <a href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}"/></a>
     {% endif %}
     {% if post.gif %}
-        {% include gif.html file = post.gif %}
+        <a href="{{ post.url | relative_url }}">{% include gif.html file = post.gif %}</a>
     {% endif %}
     </div>
     {% endif %}
