@@ -14,6 +14,6 @@ customexcerpt: "这是自定义摘要"
 在文章中可以用markdown语法添加图片。格式为\!\[图片下标]\(图片路径)。 
 
 \<details>  
-  \<summary>\**展开查看源码\**\</summary>  
+  \<summary>\*\*展开查看源码\*\*\</summary>  
   展开的内容及代码块  
 \</details>  
