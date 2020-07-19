@@ -1,12 +1,12 @@
 # Site settings
-title: 流浪地 # 博客名称
+title: 吉光片羽 # 博客名称
 description: "Sample Blog"
-url:  "https://cybergipsy2020.github.io" # 博客地址
+url:  "https://shekelash.github.io" # 博客地址
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Ipsy" #你的昵称
   email: "ipsy@email.com" #你的邮箱，可以留空，如果不想被找到建议不要使用实名过的邮箱。
-  url: "https://cybergipsy2020.github.io" # 博客地址
+  url: "https://shekelash.github.io" # 博客地址
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
@@ -55,14 +55,4 @@ kramdown:
 sass:
   style: compressed
   sourcemap: never
-  
-# To use Gittalk comments  https://github.com/gitalk/gitalk#Usage
-# jekyll synatx: https://jekyllrb.com/docs/liquid/
-gittalk:
-  # Note: A GitHub Application is needed for authorization, if you don't have one, going to https://github.com/settings/applications/new register a new one.
-  # You must specify the website domain url in the Authorization callback URL field.
-  clientID: ee4f12fb83c53adfbc5c # 改成你的 GitHub Application Client ID
-  clientSecret: 46af9f738b7b1a719e934a42f6fdebc1c8d62296  # 改成你的 GitHub Application Client Secret,
-  repository: cybergipsy2020.github.io  # 改成你的 Storage gittalk's repository
-  owner: cybergipsy2020  # 改成你的 GitHub repo owner,
-  admin: cybergipsy2020  # 改成你的 GitHub repo owner and collaborators, only these guys can initialize github issues eg. 'colynn,daattali'
+
