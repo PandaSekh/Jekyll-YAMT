@@ -2,5 +2,6 @@ pages:
   - {name: '关于', url: 'about.html'}
   - {name: '归档', url: 'archive.html'}
   - {name: '分类', url: 'categories/'}
+  - {name: 'AO3', type: "brand", url: 'https://archiveofourown.org/users/shekelash'}
 
 #   - {name: '外链', url: '外链地址'}
