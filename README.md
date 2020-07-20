@@ -113,7 +113,7 @@ In social you can add your socials that will show up in the nav. To add a social
 Brand defines Font Awesome's font type (fas is solid, fab is brand).
 Out of the box this theme has support colors for a bunch of social. If your social isn't supported, just add the color in the header.css 
 
-In `settings.yml` you can activate or deactivate various functions of the theme, like analytics, disqus comments, related posts and so on.
+In `_data/settings.yml` you can activate or deactivate various functions of the theme, like analytics, disqus comments, related posts and so on.
 
 ### Header
 In `_data/settings.yml` you can choose to hide or show the subtitle, the page navigation or the social icons.
