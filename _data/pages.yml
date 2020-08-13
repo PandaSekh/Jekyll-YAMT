@@ -3,5 +3,6 @@ pages:
   - {name: '归档', url: 'archive.html'}
   - {name: '分类', url: 'categories/'}
   - {name: 'ao3', type: "brand", url: 'https://archiveofourown.org/users/shekelash'}
+  - {name: '登录', type: "brand", url: 'https://github.com/shekelash/shekelash.github.io'}
 
 #   - {name: '外链', url: '外链地址'}
