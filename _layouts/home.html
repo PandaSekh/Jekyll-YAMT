@@ -11,7 +11,8 @@ title: Home
     <div class = "post-info">
         <span>
             <i class="far fa-calendar" aria-hidden="true"></i>
-            <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time> 
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time> - <i class="far fa-clock"></i> 
+            {% include reading_time.html %}
         </span>
     </div>
     {% endif %}
@@ -22,7 +23,7 @@ title: Home
         <a href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}"/></a>
     {% endif %}
     {% if post.gif %}
-        {% include gif.html file = post.gif %}
+        <a href="{{ post.url | relative_url }}">{% include gif.html file = post.gif %}</a>
     {% endif %}
     </div>
     {% endif %}
@@ -33,7 +34,7 @@ title: Home
         {% else %}
             {{ post.content | strip_html | truncatewords:50 }}
         {% endif %}
-        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">继续阅读...</a></span>
+        <span class = "continue-reading"><a href="{{ post.url | relative_url }}">Continue reading...</a></span>
     </p> 
 </div>
 {% endfor %}
