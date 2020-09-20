@@ -99,6 +99,8 @@ Github Pages uses the [--safe flag](https://jekyllrb.com/docs/configuration/opti
     $ gem install jekyll-yamt
     ```
 
+#### ERROR: There was an error while loading `jekyll-yamt.gemspec`: No such file or directory - git ls-files -z. Bundler cannot continue.
+If you encounter this error when running `bundle install`, please make sure git is installed.
 
 ## Customize
 
