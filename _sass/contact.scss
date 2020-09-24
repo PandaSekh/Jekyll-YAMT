@@ -1,6 +1,5 @@
 .form{
     .form-input{
-        font-family: 'PT Serif', serif;
         font-size: 1rem;
         width: 100%;
         padding: 10px 0;
@@ -23,7 +22,6 @@
         border: black 1px solid;
         padding: 10px;
         border-radius: 10px;
-        font-family: 'PT Serif', serif;
       }
     .form-button:hover{
         background-color: $light-grey;
