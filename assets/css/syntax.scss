@@ -1,12 +1,7 @@
 ---
 ---
 
-/*  These two lines of CSS can't be used together, as they will break some elements. Uncomment the one you want to use and comment or delete the other one.
-    white-space: pre-wrap - returns on a new line every word outside of the code block. No horizontal scrollbar. This breaks the lines of code, if you show them. https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
-    overflow-x: auto - The lines of code remain exactly the same as you typed. In case of overflow, it adds an horizontal scrollbar. This works with lines of code. https://developer.mozilla.org/en-US/docs/Web/CSS/overflow-x
-*/
 pre{
-  /* white-space: pre-wrap; */  
    overflow-x: auto;
 }
 
@@ -17,6 +12,14 @@ pre{
   padding-right: 10px;
   padding-top: 1px;
   padding-bottom: 1px;
+  // System font stack for code
+  font-family:
+    "SFMono-Regular",
+    Consolas,
+    "Liberation Mono",
+    Menlo,
+    Courier,
+    monospace;
 }
 
 pre.lineo{

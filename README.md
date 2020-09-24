@@ -16,6 +16,7 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 - [Installation](#installation)
 - [Customize](#options)
   - [Basics](#Basics)
+  - [Typography](#Typography)
   - [Header](#header)
   - [Home](#home)
   - [Post](#post)
@@ -116,6 +117,9 @@ Brand defines Font Awesome's font type (fas is solid, fab is brand).
 Out of the box this theme has support colors for a bunch of social. If your social isn't supported, just add the color in the header.css 
 
 In `_data/settings.yml` you can activate or deactivate various functions of the theme, like analytics, disqus comments, related posts and so on.
+
+### Typography
+By default YAMT uses the System Font STack, which greatly reduces load times. If you want to use the old Font Stack, in `assets/main.scss` change `typography` to `typography-old`.
 
 ### Header
 In `_data/settings.yml` you can choose to hide or show the subtitle, the page navigation or the social icons.
