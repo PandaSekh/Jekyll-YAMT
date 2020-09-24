@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-yamt"
-  spec.version       = "1.0.3"
+  spec.version       = "1.0.5"
   spec.authors       = ["PandaSekh"]
   spec.email         = ["alessiofranceschi2@gmail.com"]
 
@@ -10,8 +10,9 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/PandaSekh/Jekyll-YAMT"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
-
+  spec.files = `git ls-files -z`.split("\x0").select do |f|
+    f.match(%r{^(_(includes|layouts|sass)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
+    
   spec.add_runtime_dependency "jekyll", "~> 4.0"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1.0"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.6.1"
