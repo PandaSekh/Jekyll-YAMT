@@ -34,6 +34,5 @@ related-posts:
   active: true
   title: "You May Also Enjoy"
 
-#Disqus
-disqus:
-  disqus_shortname: "your_username" #Your disqus shortname. Leave blank to deactivate disqus comments
+#Comments
+comments: true

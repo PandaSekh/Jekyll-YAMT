@@ -20,31 +20,6 @@ html{
   list-style: none;
 }
 
-//Disqus
-#load-comments{
-    border: 1px solid #e0e0e0;
-    border-radius: 3px;
-    padding: 15px 35px;
-    margin-left: auto;
-    margin-right: auto;
-    overflow: hidden;
-    text-align: center;
-    max-width: fit-content;
-    //Make text not selectable
-    -webkit-user-select: none;      
-    -moz-user-select: none; 
-    -ms-user-select: none; 
-    user-select: none;
-    color: $base;
-}
-
-#load-comments:hover{
-  cursor: pointer;
-  color: black;
-  background-color: $light-grey;
-}
-//End Disqus
-
 //Alerts
 .alert{
   padding: 20px;
