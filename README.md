@@ -1,6 +1,6 @@
 # [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
-![supports mathjax](https://img.shields.io/badge/Supports-MathJAX-blue)
+![](https://badgen.net/rubygems/dt/jekyll-yamt)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-YAMT/issues)
 ![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-YAMT?label=Fork%20it%21&style=social)
 ## [Live Demo](https://yamt.netlify.app/)
