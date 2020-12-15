@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-yamt"
-  spec.version       = "1.0.5"
+  spec.version       = "1.0.6"
   spec.authors       = ["PandaSekh"]
   spec.email         = ["alessiofranceschi2@gmail.com"]
 
@@ -18,6 +18,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-feed", "~> 0.13.0"  
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.4.0"
   
-  spec.add_development_dependency "bundler", "~> 2.1.4"
+  spec.add_development_dependency "bundler", "~> 2.2.1"
   spec.add_development_dependency "rake", "~> 12.0"
 end
