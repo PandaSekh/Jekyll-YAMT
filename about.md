@@ -15,7 +15,7 @@ entities, and private companies in Canada, the United States, and
 Vietnam. Her contribution to the different projects included reviewing
 literature, designing studies and surveys, analyzing data, and presenting
 results in scientific and lay publications and conferences. She also
-mentored 8 graduate student (3 MSc and 5 PhD) for diverse projects,
+mentored 8 graduate students (3 MSc and 5 PhD) for diverse projects,
 and volunteered for Veterinarians Without Borders in two countries
 and for training future volunteers.
 
