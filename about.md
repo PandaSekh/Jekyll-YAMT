@@ -24,12 +24,10 @@ and volunteered for Veterinarians Without Borders.
 : <i class="fas fa-phone"></i> The Netherlands: + 31 6 27 97 68 58  
 : <i class="fas fa-phone"></i> South Africa: + 27 62 975 8570  
 : <i class="fab fa-skype"></i> Skype: josedr_3  
-  
-<br/><br/>
+<br/>
 **Location**  
 : <i class="fas fa-map-marker"></i> Canada
   
-
 ## <i class="fas fa-graduation-cap"></i> Education
 
 ### I. Academic Background
@@ -37,13 +35,11 @@ and volunteered for Veterinarians Without Borders.
 2013 to 2016  
 : <i class="fas fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
 : **Doctor of Philosophy (Ph.D.)**, Population Medicine
-  
-
+<br/>
 2011 to 2013  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
 : **Master of Science (M.Sc.)**, Veterinary Sciences  
-  
-
+<br/>
 2006 to 2011  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
 : **Doctor of veterinary medicine (DVM)**
@@ -60,64 +56,64 @@ and volunteered for Veterinarians Without Borders.
 2021   
 : Online [Prep ACVPM](http://prepacvpm.org/) Course. January to June 2021.   
 : Course leaders: Danelle Bickett-Weddle and Glenda Dvorak.  
-  
-
+<br/>
 2021  
 : Core Skills Training (Git, Github, Jekyll, Docker, Markdown/Asciisdoc). Spring 2021.  
 : University of British Columbia.\.  
-  
+<br/>
 2016  
 : Bayesian Latent Class Modelling in Animal Health. _Epi on the Island_, Prince-Edward-Island, Canada. June 8 - June 11.  
 : Instructors: Wes Johnson, Ian Gardner and Henrik Stryhn.  
-  
+<br/>
 
-2016::
-Introduction to Multilevel Modelling. _Epi on the Island_, Prince-Edward-Island, Canada. June 13 - June 17. +
-Instructors: Ian Dohoo, Henrik Stryhn and Javier Sanchez.
+2016  
+: Introduction to Multilevel Modelling. _Epi on the Island_, Prince-Edward-Island, Canada. June 13 - June 17.  
+: Instructors: Ian Dohoo, Henrik Stryhn and Javier Sanchez.  
 
 
 ### III. Language Skills
 
-**French**: native language +
+**French**: native language  
 **English**: fluent
 
 
-## @icon-briefcase Professional experience
+## <i class="fas fa-briefcase"></i> Professional experience
 
 ### I. Research positions
 
-2021 to now::
-**Research agent (part-time)** +
-_Improving Early Warning of Emerging Threats._ +
-<i class="fas fa-university"></i> [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
-Supervisors: Dr. Hélène Carabin and Dr. Christina Zarowski
+2021 to now  
+: **Research agent (part-time)**  
+: _Improving Early Warning of Emerging Threats._  
+: <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
+: Supervisors: Dr. Hélène Carabin and Dr. Christina Zarowski.  
 
-2020 to now::
-**Part-time postdoctoral research fellowship** +
-_Genomics solutions for agriculture, agri-food, fisheries and aquaculture._ +
-Support research and teaching within the Dairy Reproduction research group. +
-<i class="fas fa-university"></i> [https://www.landfood.ubc.ca/](University of British Columbia) +
-Supervisor: Dr. Ronaldo Cerri
+<br/>
+2020 to now  
+: **Part-time postdoctoral research fellowship**  
+: _Genomics solutions for agriculture, agri-food, fisheries and aquaculture._  
+: Support research and teaching within the Dairy Reproduction research group.  
+: <i class="fas fa-university"></i> [University of British Columbia](https://www.landfood.ubc.ca/)  
+: Supervisor: Dr. Ronaldo Cerri.
 
 
 ### II. Consulting
 
-2017 to now::
-**Self-employed veterinary epidemiologist**:::
-* Develop, analyze, interpret, and publish research projects with
-major stakeholders in animal science, public health, and One Health.
+2017 to now  
+: **Self-employed veterinary epidemiologist**  
+:: * Develop, analyze, interpret, and publish research projects with
+major stakeholders in animal science, public health, and One Health.  
 * Design and create online courses for continuing education of
-veterinarians and animal scientists. +
+veterinarians and animal scientists.  
 * Interview researchers, farmers, and other stakeholders for
-communicating changes and challenges to the industry and the public.
+communicating changes and challenges to the industry and the public.  
 
 ### III. Clinical position
 
-2011 to 2013::
-**Part-time veterinary clinician** +
-Ruminant Ambulatory Clinic +
-<i class="fas fa-university"></i> [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
-Supervisor: Dr. Luc DesCôteaux
+2011 to 2013  
+: **Part-time veterinary clinician**  
+: Ruminant Ambulatory Clinic  
+: <i class="fas fa-university"></i> [https://fmv.umontreal.ca/fmv/](Université de Montréal)  
+: Supervisor: Dr. Luc DesCôteaux.
 
 ## <i class="fas fa-bar-chart"></i> Research activities
 
