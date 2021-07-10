@@ -5,12 +5,12 @@ toc: yes
 ---
 
 José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u>  
-: [josedr@hotmail.ca](mailto:josedr@hotmail.ca)
+[josedr@hotmail.ca](mailto:josedr@hotmail.ca)
 
 
 ## <i class="fas fa-user"></i> Personal details
 
-Dr. Denis-Robichaud is a veterinary epidemiologist researcher. She
+Dr. Denis-Robichaud is a veterinary epidemiologist and researcher. She
 collaborated to various projects with research groups, governmental
 entities, and private companies in Canada, the United States, and
 Vietnam. Her contribution to the different projects included reviewing
@@ -25,11 +25,10 @@ and volunteered for Veterinarians Without Borders.
 : <i class="fas fa-phone"></i> South Africa: + 27 62 975 8570  
 : <i class="fab fa-skype"></i> Skype: josedr_3  
   
-
+<br/><br/>
 **Location**  
 : <i class="fas fa-map-marker"></i> Canada
   
-
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
