@@ -128,81 +128,103 @@ communicating changes and challenges to the industry and the public.
 
 ### I. Current projects
 
-| Period    	| Client                         	| Title, funding and collaborators                                                                                                                                                                                                              	| Role                    	|
-|:----------	|:--------------------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|:-------------------------	|
-| 2020-2024 	| University of British Columbia 	| _Genomics solutions for agriculture, agri-food, fisheries and aquaculture_ <br>Genome Canada et al. <br>MPI: Dr. Christine Baes, Dr. Ronaldo Cerri, Dr. Marc-André Sirard, and Dr. Paul Stothard                                              	| Postdoctoral researcher 	|
-| 2020-2021 	| Université de Montréal         	| _Evaluation of One Health initiatives for infectious diseases and antimicrobial resistance : a scoping review_ <br>Canadian Institutes of Health <br>PA: Dr. Hélène Carabin                                                                   	| Consultant              	|
-| 2020-2021 	| Université de Montréal         	| _Impact of pet ownership on mental health and well-being during the COVID-19 pandemic_ <br>Fond de démarrage et Chaire de Recherche du Canada en épidémiologie et une seule santé <br>PI: Dr. Hélène Carabin                                  	| Consultant              	|
-| 2019-2021 	| Université de Montréal         	| _Evolution of the proportion of respiratory and enteric pathogens and diseases in dairy heifers_ <br>CRSNG and Zoétis <br>PI: Dr. David Francoz                                                                                               	| Consultant              	|
-| 2019-2021 	| Université de Montréal         	| _Methods used by Canadian dairy farmers and veterinarians and the psychological impact of on-farm euthanasia_ <br>Dairy Farmers of Canada, Dairy Farmers of Ontario, Les Producteurs de Lait du Québec, and Valacta<br>PI: Dr. Luc DesCôteaux 	| Consultant              	|
-| 2018-2021 	| Université de Montréal         	| _Impact of insulin combined to propylene glycol as treatment for cows with hyperketonemia and hypoglycemia_<br>PI: Dr. Jocelyn Dubuc                                                                                                          	| Consultant              	|
-| 2018-2021 	| Université de Montréal         	| _Pegbovigrastim as an adjunct therapy for naturally occurring severe clinical mastitis cases in dairy cows_<br>Fonds du Centenaire, Faculté de médecine vétérinaire<br>PI: Dr. Jocelyn Dubuc                                                  	| Consultant              	|
+2020-2024  
+: Postdoctoral researcher, University of British Columbia  
+: _Genomics solutions for agriculture, agri-food, fisheries and aquaculture_  
+: Genome Canada et al.  
+: MPI: Dr. Christine Baes, Dr. Ronaldo Cerri, Dr. Marc-André Sirard, and Dr. Paul Stothard  
+<br/>  
+
+2020-2021  
+: Consultant, Université de Montréal  
+: _Evaluation of One Health initiatives for infectious diseases and antimicrobial resistance : a scoping review_  
+: Canadian Institutes of Health  
+: PA: Dr. Hélène Carabin  
+<br/>  
+
+2020-2021  
+: Consultant, Université de Montréal  
+: _Impact of pet ownership on mental health and well-being during the COVID-19 pandemic_  
+: Fond de démarrage et Chaire de Recherche du Canada en épidémiologie et une seule santé  
+: PI: Dr. Hélène Carabin  
+<br/>
+
+2019-2021  
+: Consultant, Université de Montréal  
+: _Evolution of the proportion of respiratory and enteric pathogens and diseases in dairy heifers_  
+: CRSNG and Zoétis  
+: PI: Dr. David Francoz  
+<br/>  
+
+2019-2021  
+: Consultant, Université de Montréal  
+: _Methods used by Canadian dairy farmers and veterinarians and the psychological impact of on-farm euthanasia_  
+: Dairy Farmers of Canada, Dairy Farmers of Ontario, Les Producteurs de Lait du Québec, and Valacta  
+: PI: Dr. Luc DesCôteaux
+<br/>
+
+2018-2021  
+: Consultant, Université de Montréal  
+: _Impact of insulin combined to propylene glycol as treatment for cows with hyperketonemia and hypoglycemia_  
+: PI: Dr. Jocelyn Dubuc  
+<br/>
+
+2018-2021  
+: Consultant, Université de Montréal  
+: _Pegbovigrastim as an adjunct therapy for naturally occurring severe clinical mastitis cases in dairy cows_  
+: Fonds du Centenaire, Faculté de médecine vétérinaire  
+: PI: Dr. Jocelyn Dubuc  
 
 
 ### II. Previous projects
 
+2020  
+: Consultant, Clinique Vétérinaire de Coaticook  
+: _Oral calcium and calcemia in dairy cows_  
+: Vetoquinol  
+: PI: Dr. Vincent Caldwell  
+<br/>
 
+2019  
+: Consultant, Intervet Canada    
+: _Vaccination schedules for dairy calves in a commercial setting_  
+: R&D (Intervet Inc.)  
+: PI: Dr. Guy Boisclair  
+<br/>
 
-[cols="15,15,55,15"]
-|====
-|Period |Client |Title, funding and collaborators |Role
+2018 to 2020  
+: Volunteer, Center for Public Health and Ecosystem Research  
+: _Microbial contamination and associated risk factors in retailed pork from key value chains in Northern Vietnam_  
+: Australian Centre for International Agricultural Research and the CGIAR Research Program on Agriculture for Nutrition and Health  
+: PI: Dr. Fred Unger  
+<br/>
 
-|2020
-|Clinique Vétérinaire de Coaticook
-|_Oral calcium and calcemia in dairy cows_ +
-Vetoquinol +
-PI: Dr. Vincent Caldwell
-|Consultant
+2016 to 2019  
+: Consultant, Advanced Animal Diagnostics  
+: _Milk leukocyte differential test for decision-making in a selective dry cow therapy program_  
+: R&D (AAD Inc.)  
+: PI: Dr. Mitchell Hockett  
+<br/>
 
-|2019
-|Intervet Canada
-|_Vaccination schedules for
-dairy calves in a commercial setting_ +
-Internal R&D (Intervet Inc.) +
-PI: Dr. Guy Boisclair
-|Consultant
+2015 to 2020  
+: Consultant, University of Guelph  
+: _Canadian National Dairy Study: Biosecurity_  
+: Dairy Cluster 2 Research program  
+: PI: Dr. David Kelton  
+<br/>  
 
-|2018 to 2020
-|Center for Public Health and Ecosystem Research
-|_Microbial contamination and associated risk factors
-in retailed pork from key value chains in Northern Vietnam_ +
-Australian Centre for International Agricultural
-Research and the CGIAR Research Program on Agriculture for Nutrition
-and Health +
-PI: Dr. Fred Unger
-|Volunteer
+2015 to 2020  
+: Consultant, University of Guelph  
+: _Canadian National Dairy Study: Lameness_  
+: Dairy Cluster 2 Research program   
+: PI: Dr. David Kelton  
+<br/>  
 
-|2016 to 2019
-|Advanced Animal Diagnostics
-|_Milk leukocyte differential test
-for decision-making in a selective dry cow therapy program_ +
-Internal R&D (AAD Inc.) +
-PI: Dr. Mitchell Hockett
-|Consultant
-
-|2015 to 2020
-|University of Guelph
-|_Canadian National Dairy Study: Biosecurity_ +
-Dairy Cluster 2 Research program +
-PI: Dr. David Kelton
-|Consultant
-
-|2015 to 2020
-|University of Guelph
-|_Canadian National Dairy Study: Lameness_ +
-Dairy Cluster 2 Research program +
-PI: Dr. David Kelton
-|Consultant
-
-|2011 to 2019
-|Université de Montréal
-|_Intrauterine Escherichia coli virulence genes and subsequent
-reproductive tract disease in postpartum dairy cows_ +
-MAPAQ– Programme Innov’Action +
-PI: Dr. Jocelyn Dubuc
-|Consultant
-
-|====
+2011 to 2019  
+: Consultant, Université de Montréal  
+: _Intrauterine Escherichia coli virulence genes and subsequent reproductive tract disease in postpartum dairy cows_  
+: MAPAQ– Programme Innov’Action  
+: PI: Dr. Jocelyn Dubuc  
 
 
 ### III. Publications and presentations
