@@ -4,9 +4,9 @@ description: "Work and development static website"
 url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "José Denis-Robichaud"
+  email: "josedr@hotmail.ca"
+  url: "https://github.com/josedenisrobichaud/"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
@@ -18,7 +18,7 @@ paginate_path: "/page:num/"
 
 #SEO
 twitter:
-  username: pandasekh
+  username: JoseRobichaud
   card: summary
 facebook:
   app_id: # Facebook app ID for Facebook insights
@@ -27,9 +27,9 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://twitter.com/JoseRobichaud
+    - https://www.github.com/josedenisrobichaud
+    - https://www.linkedin.com/in/jose-denis-robichaud/
 webmaster_verifications:
   google: 
   bing: 
