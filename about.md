@@ -548,13 +548,13 @@ Faculty of Graduate and Postdoctoral Studies, Université de Montréal
 
 ### II. Volunteering
 
-2018 to now:: **Veterinary Advisory Council Member** +
+2018 to now   **Veterinary Advisory Council Member** +
 @icon-building [Veterinarian Without Borders - Canada](https://www.vetswithoutborders.ca/) :::
 - Support project development and volunteer training to integrate the One Health approach.
 - Support development of research projects and teach graduate students and research staff on biostatistics and epidemiological tools within the Center for Public Health and Ecosystem Research (Vietnam).
 - Collaborate with stakeholders and governmental entities to help the development of the Ugandan dairy industry by supporting the health, well-being, and production of dairy cows.
 
 
-2012 **Speaker**  
-Sensibilisation aux Études, à l’Université et à la Recherche  
-Promoted academic and scientific professions to high school students.
+2012 » **Speaker**  
+» Sensibilisation aux Études, à l’Université et à la Recherche  
+» Promoted academic and scientific professions to high school students.
