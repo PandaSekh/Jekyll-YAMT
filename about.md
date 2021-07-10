@@ -128,64 +128,16 @@ communicating changes and challenges to the industry and the public.
 
 ### I. Current projects
 
+| Period        | Client                         | Title, funding and collaborators                                                                                                                                                                                                        | Role                    |
+|---------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 2020 to 2024  | University of British Columbia | _Genomics solutions for agriculture, agri-food, fisheries and aquaculture_  Genome Canada et al.  MPI: Dr. Christine Baes, Dr. Ronaldo Cerri, Dr. Marc-André Sirard, and Dr. Paul Stothard                                              | Postdoctoral researcher |
+| 2020 and 2021 | Université de Montréal         | _Evaluation of One Health agreements for infectious diseases and antimicrobial resistance within governance settings_  Canadian Institutes of Health  PA: Dr. Hélène Carabin                                                            | Consultant              |
+| 2020 and 2021 | Université de Montréal         | _Impact of pet ownership on mental health and well-being during the COVID-19 pandemic_  Fond de démarrage et Chaire de Recherche du Canada en épidémiologie et une seule santé  PI: Dr. Hélène Carabin                                  | Consultant              |
+| 2019 to 2021  | Université de Montréal         | _Evolution of the proportion of respiratory and enteric pathogens and diseases in dairy heifers_  CRSNG and Zoétis  PI: Dr. David Francoz                                                                                               | Consultant              |
+| 2019 to 2021  | Université de Montréal         | _Methods used by Canadian dairy farmers and veterinarians and the psychological impact of on-farm euthanasia_  Dairy Farmers of Canada, Dairy Farmers of Ontario, Les Producteurs de Lait du Québec, and Valacta PI: Dr. Luc DesCôteaux | Consultant              |
+| 2018 to 2021  | Université de Montréal         | _Impact of insulin combined to propylene glycol as treatment for cows with hyperketonemia and hypoglycemia_ PI: Dr. Jocelyn Dubuc                                                                                                       | Consultant              |
+| 2018 to 2021  | Université de Montréal         | _Pegbovigrastim as an adjunct therapy for naturally occurring severe clinical mastitis cases in dairy cows_ Fonds du Centenaire, Faculté de médecine vétérinaire PI: Dr. Jocelyn Dubuc                                                  | Consultant              |
 
-|Period    |Client    |Title, funding and collaborators   |Role      |
-| -------- | -------- | --------------------------------- | -------- |
-|2020 to 2024|University of British Columbia|_Genomics solutions for agriculture, agri-food, fisheries and aquaculture_  
-Genome Canada et al.  
-MPI: Dr. Christine Baes, Dr. Ronaldo Cerri, Dr. Marc-André Sirard, and Dr. Paul Stothard|Postdoctoral researcher|
-
-|2020 and 2021
-|Université de Montréal
-|_Evaluation of One Health agreements for infectious
- diseases and antimicrobial resistance within governance settings_ +
-Canadian Institutes of Health +
-PA: Dr. Hélène Carabin
-|Consultant
-
-|2020 and 2021
-|Université de Montréal
-|_Impact of pet ownership on mental health and
-well-being during the COVID-19 pandemic_ +
-Fond de démarrage et Chaire de Recherche du Canada en épidémiologie et une seule santé +
-PI: Dr. Hélène Carabin
-|Consultant +
-Survey preparation, analysis
-
-|2019 to 2021
-|Université de Montréal
-|_Evolution of the proportion of respiratory and enteric pathogens
-and diseases in dairy heifers_ +
-CRSNG and Zoétis +
-PI: Dr. David Francoz
-|Consultant
-
-|2019 to 2021
-|Université de Montréal
-|_Methods used by Canadian dairy farmers and veterinarians and the
-psychological impact of on-farm euthanasia_ +
-Dairy Farmers of Canada, Dairy Farmers of Ontario, Les Producteurs de Lait du Québec, and Valacta +
-PI: Dr. Luc DesCôteaux
-|Consultant
-
-|2018 to 2021
-|Université de Montréal
-|_Impact of insulin combined to propylene glycol as treatment for cows with
-hyperketonemia and hypoglycemia_ +
-TBC +
-PI: Dr. Jocelyn Dubuc
-|Consultant
-
-|2018 to 2021
-|Université de Montréal
-|_Pegbovigrastim as an adjunct
-therapy for naturally occurring severe clinical mastitis cases
-in dairy cows_ +
-Fonds du Centenaire, Faculté de médecine vétérinaire +
-PI: Dr. Jocelyn Dubuc
-|Consultant
-
-|====
 
 ### II. Previous projects
 
