@@ -128,16 +128,12 @@ communicating changes and challenges to the industry and the public.
 
 ### I. Current projects
 
-[cols="15,15,55,15"]
-|====
-|Period| Client |Title, funding and collaborators |Role
 
-|2020 to 2024
-|University of British Columbia
-|_Genomics solutions for agriculture, agri-food, fisheries and aquaculture_ +
-Genome Canada et al. +
-MPI: Dr. Christine Baes, Dr. Ronaldo Cerri, Dr. Marc-André Sirard, and Dr. Paul Stothard
-|Postdoctoral researcher.
+|Period    |Client    |Title, funding and collaborators   |Role      |
+| -------- | -------- | --------------------------------- | -------- |
+|2020 to 2024|University of British Columbia|_Genomics solutions for agriculture, agri-food, fisheries and aquaculture_  
+Genome Canada et al.  
+MPI: Dr. Christine Baes, Dr. Ronaldo Cerri, Dr. Marc-André Sirard, and Dr. Paul Stothard|Postdoctoral researcher|
 
 |2020 and 2021
 |Université de Montréal
