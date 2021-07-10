@@ -246,175 +246,175 @@ PI: Dr. Jocelyn Dubuc
 
 #### A. Peer-reviewed journals
 
-. Tuan Ngo, H. H., L. Nguyen-Thanh, P. Pham-Duc, S. Dang-Xuan, H. Le-Thi, **J. Denis-Robichaud**, H. Nguyen-Viet, T. Le-Thi Huyen, D. Randolph, and F. Unger. 2021.
+1. Tuan Ngo, H. H., L. Nguyen-Thanh, P. Pham-Duc, S. Dang-Xuan, H. Le-Thi, **J. Denis-Robichaud**, H. Nguyen-Viet, T. Le-Thi Huyen, D. Randolph, and F. Unger. 2021.
 _Microbial contamination and associated risk factors in retailed pork from key value chains in Northern Vietnam._ International Journal of Food Microbiology. 346:109163. [10.1016/j.ijfoodmicro.2021.109163].
 
-. Turcotte, M. E., **J. Denis-Robichaud**, J. Dubuc, J. Harel, D. Tremblay, C. A. Gagnon, and J. Arsenault. 2021.
+1. Turcotte, M. E., **J. Denis-Robichaud**, J. Dubuc, J. Harel, D. Tremblay, C. A. Gagnon, and J. Arsenault. 2021.
 _Prevalence of shedding and antibody to Coxiella burnetii in post-partum dairy cows and
 its association with reproductive tract diseases and performance: a pilot study._ Preventive Veterinary Medicine. 186. [10.1016/j.prevetmed.2020.105231].
 
-. Nadalin, A., **J. Denis-Robichaud**, A. M. L. Madureira, T. A. Burnett, J. Bauer, J. L. M. Vasconcelos, K. G. Pohler, A. M. Crespilho, and R. L. A. Cerri. 2021.
+1. Nadalin, A., **J. Denis-Robichaud**, A. M. L. Madureira, T. A. Burnett, J. Bauer, J. L. M. Vasconcelos, K. G. Pohler, A. M. Crespilho, and R. L. A. Cerri. 2021.
 _Validation of an in-house bovine serum enzyme immunoassay for progesterone measurement._ Journal of Dairy Science. 104. [10.3168/jds.2020-18824].
 
-. Cerri, R.L.A., T.A. Burnett, A.M.L. Madureira, B.F. Silper, **J. Denis-Robichaud**, S. LeBlanc, R.F. Cooke, and J.L.M. Vasconcelos. 2021.
+1. Cerri, R.L.A., T.A. Burnett, A.M.L. Madureira, B.F. Silper, **J. Denis-Robichaud**, S. LeBlanc, R.F. Cooke, and J.L.M. Vasconcelos. 2021.
 _Symposium review: Linking activity-sensor data and physiology to improve dairy cow
 fertility._ Journal of Dairy Science. 104. [10.3168/jds.2019-17893].
 
-. **Denis-Robichaud, J.**, D. Kelton, V. Fauteux, M. Villettaz-Robichaud, and J. Dubuc. 2020.
+1. **Denis-Robichaud, J.**, D. Kelton, V. Fauteux, M. Villettaz-Robichaud, and J. Dubuc. 2020.
 _Accuracy of estimation of lameness, injury, and cleanliness prevalence by dairy farmers
  and veterinarians._ Journal of Dairy Science. [103:10696-10702. 10.3168/jds.2020-18651].
 
-. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2020.
+1. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2020.
 _Gap between producers and veterinarians regarding biosecurity on Québec dairy farms._ The Canadian Veterinary Journal. 61:757-762.
 
-. **Denis-Robichaud, J.**, R. A. Almeida, S. Ivey, R. R. Rodriguez, M. Payne, K. E. Leslie, M. E. Hockett.  2019.
+1. **Denis-Robichaud, J.**, R. A. Almeida, S. Ivey, R. R. Rodriguez, M. Payne, K. E. Leslie, M. E. Hockett.  2019.
 _Performance of a milk leukocyte differential test for decision-making in a selective
 dry cow therapy program._ The Bovine Practitioner. 53:150-159. [10.21423/bovine-vol53no2p150-159].
 
-. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2019.
+1. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2019.
 _Canadian dairy farmers’ perception of the efficacy of biosecurity practices._ Journal of Dairy Science. 102:10657-10669. [10.3168/jds.2019-16312].
 
-. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2019.
+1. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2019.
 _Biosecurity and herd health management practices on Canadian dairy farms._ Journal of Dairy Science. 102:9536-9547. [10.3168/jds.2018-1592].
 
-. **Denis-Robichaud, J.**, J.M. Fairbrother, F. Ndongo Kassé, and J. Dubuc. 2019.
+1. **Denis-Robichaud, J.**, J.M. Fairbrother, F. Ndongo Kassé, and J. Dubuc. 2019.
 _Association Between the Presence of Intrauterine Escherichia Coli Virulence Genes and
 Subsequent Reproductive Tract Disease in Postpartum Dairy Cows._ Concepts of Dairy and Veterinary Sciences. 2: 195-201. [10.32474/CDVS.2019.02.000140].
 
-. Arango-Sabogal, J.C., J. Dubuc, C. Krug, **J. Denis-Robichaud**, and S. Dufour. 2019.
+1. Arango-Sabogal, J.C., J. Dubuc, C. Krug, **J. Denis-Robichaud**, and S. Dufour. 2019.
 _Accuracy of leukocyte esterase test, endometrial cytology and vaginal T discharge
 score for diagnosing postpartum reproductive tract health status in dairy cows at the
 moment of sampling, using a latent class model fit within a Bayesian framework._ Preventive Veterinary Medicine. [10.1016/j.prevetmed.2018.11.003].
 
-. **Denis-Robichaud, J.**, S. LeBlanc, A. Jones-Bitton, B.F. Silper, and R.L.A. Cerri. 2018.
+1. **Denis-Robichaud, J.**, S. LeBlanc, A. Jones-Bitton, B.F. Silper, and R.L.A. Cerri. 2018.
 _Pilot Study to Evaluate the Association Between the Length of the Luteal Phase and
 Estrous Activity Detected by Automated Activity Monitoring in Dairy Cows._ Frontiers in Veterinary Science. [10.3389/fvets.2018.00210].
 
-. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2018.
+1. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2018.
 _Dairy producers’ attitudes toward reproductive management and performance on Canadian
 dairy farms._ Journal of Dairy Science. 101:850-860. [10.3168/jds.2016-12416].
 
-. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2018.
+1. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2018.
 _Performance of automated activity monitoring systems used in
 combination with timed artificial insemination compared to
 timed artificial insemination only in early lactation in dairy
 cows._ Journal of Dairy Science. 101:624-636. [10.3168/jds.2016-12256].
 
-. Genís, S., R.L.A. Cerri, À. Bach, B.F. Silper, M. Baylão, **J. Denis-Robichaud**, and A. Arís. 2018.
+1. Genís, S., R.L.A. Cerri, À. Bach, B.F. Silper, M. Baylão, **J. Denis-Robichaud**, and A. Arís. 2018.
 _Pre-calving Intravaginal Administration of Lactic Acid Bacteria
  Reduces Metritis Prevalence and Regulates Blood Neutrophil
  Gene Expression After Calving in Dairy Cattle._ Frontiers in Veterinary Science. 5: 135. [10.3389/fvets.2018.00135].
 
-. Dubuc, J. and **J. Denis-Robichaud**. 2017. _A dairy herd-level
+1. Dubuc, J. and **J. Denis-Robichaud**. 2017. _A dairy herd-level
 study of postpartum diseases and their association with
 reproductive performance and culling._ Journal of Dairy Science. 100:3068-3078.  [10.3168/jds.2016-12144].
 
-. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2016.
+1. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2016.
  _Survey of reproduction management on Canadian
 dairy farms._ Journal of Dairy Science. 99:9339–9351. [10.3168/jds.2016-11445].
 
-. **Denis-Robichaud, J.** and J. Dubuc. 2015. _Randomized clinical
+1. **Denis-Robichaud, J.** and J. Dubuc. 2015. _Randomized clinical
 trial of intrauterine cephapirin infusion in dairy cows for the
 treatment of purulent vaginal discharge and cytological
 endometritis._ Journal of Dairy Science. 98:6856-6864. [10.3168/jds.2014-9129].
 
-. **Denis-Robichaud, J.** and J. Dubuc. 2015. _Determination of optimal
+1. **Denis-Robichaud, J.** and J. Dubuc. 2015. _Determination of optimal
 diagnostic criteria for purulent vaginal discharge and
 cytological endometritis in dairy cows._ Journal of Dairy Science. 98:6848-6855. [10.3168/jds.2014-9120].
 
-. **Denis-Robichaud, J.**, J. Dubuc, D. Lefebvre, and L. DesCoteaux. 2014.
+1. **Denis-Robichaud, J.**, J. Dubuc, D. Lefebvre, and L. DesCoteaux. 2014.
 _Accuracy of milk ketone bodies from flow-injection
  analysis for the diagnosis of hyperketonemia in dairy cows._
  Journal of Dairy Science. 97:3364-3370. [10.3168/jds.2013-6744].
 
-. **Denis-Robichaud, J.**, L. DesCôteaux, and J. Dubuc. 2011.
+1. **Denis-Robichaud, J.**, L. DesCôteaux, and J. Dubuc. 2011.
 _Accuracy of a New Milk Strip Cow-side Test for Diagnosis of
 Hyperketonemia._ The Bovine Practitioner.
 
 #### B. Journals without peer-review
 
-. Denis-Robichaud, J. 2014. _Info-Bits from the Dairy Herd
+1. Denis-Robichaud, J. 2014. _Info-Bits from the Dairy Herd
 Management Certificate Update — 4. Economics of Reproduction
 in Dairy Herds._ Ceptor — Animal Health News.
 
-. Denis-Robichaud, J., J. Dubuc, D. Lefebvre, and L. DesCôteaux. 2012.
+1. Denis-Robichaud, J., J. Dubuc, D. Lefebvre, and L. DesCôteaux. 2012.
 _Performance d’un nouvel outil pour détecter les corps
  cétoniques dans le lait._ Le producteur de lait québécois.
 
 #### C. Abstracts and conference presentations
 
-. Denis-Robichaud, J., M.-È. Tremblay Cléroux, S. Buczinski, D.Francoz, M.-L. Gauthier,
+1. Denis-Robichaud, J., M.-È. Tremblay Cléroux, S. Buczinski, D.Francoz, M.-L. Gauthier,
 and J. Dubuc. _Prevalence of respiratory pathogens and diseases in dairy
 heifers at two different moments in their preweaning period._ The American
 Association of Bovine Practitioners Conference 2021. Salt Lake City, US.
 
-. Denis-Robichaud, J., J. Dubuc, C. Bauman, H. Barkema, G. Keefe, and D.F. Kelton.
+1. Denis-Robichaud, J., J. Dubuc, C. Bauman, H. Barkema, G. Keefe, and D.F. Kelton.
 _Adoption of biosecurity practices on Canadian dairy farms._ The American Association of Bovine
 Practitioners Conference 2019. St. Louis, US. Proc., 52:370.
 
-. Denis-Robichaud, J., J. Dubuc, C. Bauman, H. Barkema, G. Keefe, and D.F. Kelton.
+1. Denis-Robichaud, J., J. Dubuc, C. Bauman, H. Barkema, G. Keefe, and D.F. Kelton.
 _Involving veterinarians in the implementation of biosecurity practices on dairy farms._
 The American Association of Bovine Practitioners Conference 2019. St. Louis, US. Proc., 52:371.
 
-. Denis-Robichaud, J., J. Dubuc, C. Bauman, H. Barkema, G. Keefe, and D.F. Kelton.
+1. Denis-Robichaud, J., J. Dubuc, C. Bauman, H. Barkema, G. Keefe, and D.F. Kelton.
 _Biosecurity Practices in Canadian Dairy Herds._ World Buiatrics Congress 2018. Sapporo, Japan.
 
-. Denis-Robichaud, J., R. Almeida, S. Ivey, R.R. Rodriguez, M. Payne, and M.E. Hockett.
+1. Denis-Robichaud, J., R. Almeida, S. Ivey, R.R. Rodriguez, M. Payne, and M.E. Hockett.
 _Performance of milk leukocyte differential test in selective dry cow therapy approach._
 World Buiatrics Congress 2018. Sapporo, Japan.
 
-. Denis-Robichaud, J., S.J. LeBlanc, A. Jones-Bitton, and R.L.A. Cerri.
+1. Denis-Robichaud, J., S.J. LeBlanc, A. Jones-Bitton, and R.L.A. Cerri.
 _Association between circulating progesterone during the luteal phase and estrous
 activity detected by automated activity monitoring in dairy cattle._ American Dairy
 Science Association Joint Annual Meeting 2016. Salt Lake City, US.
 Journal of Animal Science. 94(Suppl.5): 350.
 
-. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Reproductive
+1. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Reproductive
 performance with automated activity monitoring or a timed insemination program for
 first insemination in dairy cows._ American Dairy Science Association Joint Annual
 Meeting 2016. Salt Lake City, US. Journal of Animal Science. 94(Suppl.5): 542.
 
-. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Reproductive
+1. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Reproductive
 performance with automated activity monitoring or a timed insemination program for
 first insemination in dairy cows._ Canadian Association of Veterinary Epidemiology
 and Preventive Medicine Conference 2016. Guelph, Canada. Proc.:19.
 
-. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Associations
+1. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Associations
 between management practices and reproductive performance in Canadian dairy herds._
 World Buiatrics Congress 2016. Dublin, Ireland. Proc.: 215.
 
-. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Associations
+1. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Associations
 between management practices and reproductive performance in Canadian dairy herds._
 American Dairy Science Association Joint Annual Meeting 2015. Orlando, US.
 Journal of Dairy Science. 98(Suppl.2): 874.
 
-. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Associations
+1. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Associations
 between management practices and reproductive performance in Canadian dairy herds._
 The American Association of Bovine Practitioners Conference 2015. New Orlean, US. Proc., 48:271.
 
-. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Survey of
+1. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Survey of
 management of reproduction on Canadian dairy farms._ American Dairy Science
 Association Joint Annual Meeting 2015. Orlando, US. Journal of Dairy Science.
 98(Suppl.2): 384. Poster.
 
-. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Survey of
+1. Denis-Robichaud, J., R.L.A. Cerri, A. Jones-Bitton, and S.J. LeBlanc. _Survey of
 management of reproduction on Canadian dairy farms._ The American Association of
 Bovine Practitioners Conference 2014. Albuquerque, US. Proc., 47:139.
 
-. Denis-Robichaud, J. and J. Dubuc. _Intrauterine cephapirin infusion is associated
+1. Denis-Robichaud, J. and J. Dubuc. _Intrauterine cephapirin infusion is associated
 with better reproduction performance in cows with purulent vaginal discharge and
 cytological endometritis._ American Dairy Science Association Joint
 Annual Meeting 2015. Orlando, US. Journal of Dairy Science. 98(Suppl.2): 191.
 
-. Denis-Robichaud, J. and J. Dubuc. _Validation of two diagnostic methods for
+1. Denis-Robichaud, J. and J. Dubuc. _Validation of two diagnostic methods for
 endometritis in postpartum dairy cows._ American Dairy Science Association
 Joint Annual Meeting 2013. Indianapolis, US. Journal of Dairy Science. 96(Suppl.1): 383.
 
-. Denis-Robichaud, J. and J. Dubuc. _Diagnostic et impact de l’endométrite post-partum
+1. Denis-Robichaud, J. and J. Dubuc. _Diagnostic et impact de l’endométrite post-partum
 chez la vache laitière._ 6th Annual Symposium of the Réseau Québécois en Reproduction 2013.
 Victoriaville, Canada.
 
-. Denis-Robichaud, J. and J. Dubuc. _Validation of two diagnostic methods for
+1. Denis-Robichaud, J. and J. Dubuc. _Validation of two diagnostic methods for
 endometritis in postpartum dairy cows._ The American Association of Bovine
 Practitioners Conference 2013. Milwaukee, US. Proc., 46:135. Poster.
 
@@ -549,12 +549,12 @@ Faculty of Graduate and Postdoctoral Studies, Université de Montréal
 ### II. Volunteering
 
 2018 to now:: **Veterinary Advisory Council Member** +
-@icon-building [https://www.vetswithoutborders.ca/](Veterinarian Without Borders - Canada) :::
+@icon-building [Veterinarian Without Borders - Canada](https://www.vetswithoutborders.ca/) :::
 - Support project development and volunteer training to integrate the One Health approach.
 - Support development of research projects and teach graduate students and research staff on biostatistics and epidemiological tools within the Center for Public Health and Ecosystem Research (Vietnam).
 - Collaborate with stakeholders and governmental entities to help the development of the Ugandan dairy industry by supporting the health, well-being, and production of dairy cows.
 
 
-2012:: **Speaker** +
-Sensibilisation aux Études, à l’Université et à la Recherche +
+2012 **Speaker**  
+Sensibilisation aux Études, à l’Université et à la Recherche  
 Promoted academic and scientific professions to high school students.
