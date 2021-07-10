@@ -4,7 +4,7 @@ title: about
 ---
 
 José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u>  
-josedr@hotmail.ca
+[josedr@hotmail.ca]
 
 
 ## <i class="fas fa-user"></i> Personal details
@@ -19,24 +19,25 @@ mentored 8 graduate students (3 MSc and 5 PhD) for diverse projects,
 and volunteered for Veterinarians Without Borders.
 
 **Contact**  
-   <i class="fas fa-phone"></i> Canada/WhatsApp: + 1 418 631 7153  
-   <i class="fas fa-phone"></i> The Netherlands: + 31 6 27 97 68 58  
-   <i class="fas fa-phone"></i> South Africa: + 27 62 975 8570  
-   <i class="fab fa-skype"></i> Skype: josedr_3  
+: <i class="fas fa-phone"></i> Canada/WhatsApp: + 1 418 631 7153  
+: <i class="fas fa-phone"></i> The Netherlands: + 31 6 27 97 68 58  
+: <i class="fas fa-phone"></i> South Africa: + 27 62 975 8570  
+: <i class="fab fa-skype"></i> Skype: josedr_3  
 
 **Location**  
-    <i class="fas fa-map-marker"></i> Canada
+: <i class="fas fa-map-marker"></i> Canada
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
 ### I. Academic Background
 
-2013 to 2016   <i class="fas fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
-               **Doctor of Philosophy (Ph.D.)**, Population Medicine
+2013 to 2016   
+: <i class="fas fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
+: **Doctor of Philosophy (Ph.D.)**, Population Medicine
 
-2011 to 2013::
-@icon-university [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
-**Master of Science (M.Sc.)**, Veterinary Sciences
+2011 to 2013
+: <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/) +
+: **Master of Science (M.Sc.)**, Veterinary Sciences
 
 2006 to 2011::
 @icon-university [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
