@@ -4,8 +4,8 @@ title: _curriculum vitae_
 ---
 
 José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u> 
+[mailto:josedr@hotmail.ca]
 
-josedr@hotmail.ca
 
 ## <i class="far fa-user"></i> Personal details
 
@@ -16,24 +16,24 @@ Vietnam. Her contribution to the different projects included reviewing
 literature, designing studies and surveys, analyzing data, and presenting
 results in scientific and lay publications and conferences. She also
 mentored 8 graduate students (3 MSc and 5 PhD) for diverse projects,
-and volunteered for Veterinarians Without Borders in two countries
-and for training future volunteers.
+and volunteered for Veterinarians Without Borders.
 
-**Contact**
-    @icon-phone Canada/WhatsApp: + 1 418 631 7153 
-    @icon-phone The Netherlands: + 31 6 27 97 68 58 
-    @icon-phone South Africa: + 27 62 975 8570 
-    @icon-skype Skype: josedr_3
+**Contact**  
+    <i class="far fa-phone"></i> Canada/WhatsApp: + 1 418 631 7153  
+    <i class="far fa-phone"></i> The Netherlands: + 31 6 27 97 68 58  
+    <i class="far fa-phone"></i> South Africa: + 27 62 975 8570  
+    <i class="far fa-skype"></i> Skype: josedr_3  
 
-**Location**::
-@icon-map-marker Canada
+**Location**  
+    <i class="far fa-map-marker"></i> Canada
 
-## @icon-graduation-cap Education
+## <i class="far fa-graduation-cap"></i> Education
 
 ### I. Academic Background
-2013 to 2016::
-@icon-university [https://ovc.uoguelph.ca/population-medicine/department-population-medicine](University of Guelph} +
-**Doctor of Philosophy (Ph.D.)**, Population Medicine
+
+2013 to 2016  
+    <i class="far fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
+    **Doctor of Philosophy (Ph.D.)**, Population Medicine
 
 2011 to 2013::
 @icon-university [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
