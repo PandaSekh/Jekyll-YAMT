@@ -3,9 +3,11 @@
 
 
 social:
-  - {icon: 'github', type: "brand", link: 'https://www.github.com/pandasekh'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
-  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/alessio-franceschi/'}
+  - {icon: 'github', type: "brand", link: 'https://github.com/josedenisrobichaud'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/joserobichaud'}
+  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/jose-denis-robichaud/'}
+  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/nomadinthewind/'}
+  - {icon: '', type: "google", link: 'https://scholar.google.ca/citations?user=I-jVqu8AAAAJ'}
   
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "/feed.xml"}
+  - {icon: 'envelope', type: "solid", link: 'mailto:josedr@hotmail.ca'}
+  
