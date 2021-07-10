@@ -5,6 +5,7 @@ toc: yes
 ---
 
 José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u>  
+: [josedr@hotmail.ca](mailto:josedr@hotmail.ca)
 
 
 ## <i class="fas fa-user"></i> Personal details
@@ -23,10 +24,11 @@ and volunteered for Veterinarians Without Borders.
 : <i class="fas fa-phone"></i> The Netherlands: + 31 6 27 97 68 58  
 : <i class="fas fa-phone"></i> South Africa: + 27 62 975 8570  
 : <i class="fab fa-skype"></i> Skype: josedr_3  
-
+  
 
 **Location**  
 : <i class="fas fa-map-marker"></i> Canada
+  
 
 
 ## <i class="fas fa-graduation-cap"></i> Education
@@ -36,38 +38,39 @@ and volunteered for Veterinarians Without Borders.
 2013 to 2016  
 : <i class="fas fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
 : **Doctor of Philosophy (Ph.D.)**, Population Medicine
-
+  
 
 2011 to 2013  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
 : **Master of Science (M.Sc.)**, Veterinary Sciences  
-
+  
 
 2006 to 2011  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
 : **Doctor of veterinary medicine (DVM)**
-
+  
 
 ### II. Professional development
 
 2021  
-: American College of Veterinary Preventive Medicine ([ACVPM](https://acvpm.org/)) candidate
-
+: American College of Veterinary Preventive Medicine ([ACVPM](https://acvpm.org/)) candidate  
+  
 
 #### Continuing Education
 
+2021   
+: Online [Prep ACVPM](http://prepacvpm.org/) Course. January to June 2021.   
+: Course leaders: Danelle Bickett-Weddle and Glenda Dvorak.  
+  
+
 2021  
-: Online [Prep ACVPM](http://prepacvpm.org/) Course. January to June 2021.  
-: Course leaders: Danelle Bickett-Weddle and Glenda Dvorak
-
-
-2021::
-Core Skills Training (Git, Github, Jekyll, Docker, Markdown/Asciisdoc). Spring 2021 +
-University of British Columbia.
-
-2016::
-Bayesian Latent Class Modelling in Animal Health. _Epi on the Island_, Prince-Edward-Island, Canada. June 8 - June 11. +
-Instructors: Wes Johnson, Ian Gardner and Henrik Stryhn.
+: Core Skills Training (Git, Github, Jekyll, Docker, Markdown/Asciisdoc). Spring 2021.  
+: University of British Columbia.\.  
+  
+2016  
+: Bayesian Latent Class Modelling in Animal Health. _Epi on the Island_, Prince-Edward-Island, Canada. June 8 - June 11.  
+: Instructors: Wes Johnson, Ian Gardner and Henrik Stryhn.  
+  
 
 2016::
 Introduction to Multilevel Modelling. _Epi on the Island_, Prince-Edward-Island, Canada. June 13 - June 17. +
