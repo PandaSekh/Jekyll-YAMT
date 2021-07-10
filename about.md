@@ -24,7 +24,8 @@ and volunteered for Veterinarians Without Borders.
 : <i class="fas fa-phone"></i> The Netherlands: + 31 6 27 97 68 58  
 : <i class="fas fa-phone"></i> South Africa: + 27 62 975 8570  
 : <i class="fab fa-skype"></i> Skype: josedr_3  
-<br/>
+<br/>  
+
 **Location**  
 : <i class="fas fa-map-marker"></i> Canada
   
@@ -34,15 +35,17 @@ and volunteered for Veterinarians Without Borders.
 
 2013 to 2016  
 : <i class="fas fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
-: **Doctor of Philosophy (Ph.D.)**, Population Medicine
-<br/>
+: **Doctor of Philosophy (Ph.D.)**, Population Medicine.
+<br/>  
+
 2011 to 2013  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
-: **Master of Science (M.Sc.)**, Veterinary Sciences  
-<br/>
+: **Master of Science (M.Sc.)**, Veterinary Sciences.  
+<br/>  
+
 2006 to 2011  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
-: **Doctor of veterinary medicine (DVM)**
+: **Doctor of veterinary medicine (DVM)**.
   
 
 ### II. Professional development
@@ -56,11 +59,13 @@ and volunteered for Veterinarians Without Borders.
 2021   
 : Online [Prep ACVPM](http://prepacvpm.org/) Course. January to June 2021.   
 : Course leaders: Danelle Bickett-Weddle and Glenda Dvorak.  
-<br/>
+<br/>  
+
 2021  
 : Core Skills Training (Git, Github, Jekyll, Docker, Markdown/Asciisdoc). Spring 2021.  
-: University of British Columbia.\.  
-<br/>
+: University of British Columbia.    
+<br/>  
+
 2016  
 : Bayesian Latent Class Modelling in Animal Health. _Epi on the Island_, Prince-Edward-Island, Canada. June 8 - June 11.  
 : Instructors: Wes Johnson, Ian Gardner and Henrik Stryhn.  
@@ -73,8 +78,8 @@ and volunteered for Veterinarians Without Borders.
 
 ### III. Language Skills
 
-**French**: native language  
-**English**: fluent
+**French**: native language.  
+**English**: fluent.
 
 
 ## <i class="fas fa-briefcase"></i> Professional experience
@@ -100,7 +105,7 @@ and volunteered for Veterinarians Without Borders.
 
 2017 to now  
 : **Self-employed veterinary epidemiologist**  
-:: * Develop, analyze, interpret, and publish research projects with
+* Develop, analyze, interpret, and publish research projects with
 major stakeholders in animal science, public health, and One Health.  
 * Design and create online courses for continuing education of
 veterinarians and animal scientists.  
@@ -112,7 +117,7 @@ communicating changes and challenges to the industry and the public.
 2011 to 2013  
 : **Part-time veterinary clinician**  
 : Ruminant Ambulatory Clinic  
-: <i class="fas fa-university"></i> [https://fmv.umontreal.ca/fmv/](Université de Montréal)  
+: <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
 : Supervisor: Dr. Luc DesCôteaux.
 
 ## <i class="fas fa-bar-chart"></i> Research activities
@@ -251,85 +256,85 @@ PI: Dr. Jocelyn Dubuc
 #### A. Peer-reviewed journals
 
 1. Tuan Ngo, H. H., L. Nguyen-Thanh, P. Pham-Duc, S. Dang-Xuan, H. Le-Thi, **J. Denis-Robichaud**, H. Nguyen-Viet, T. Le-Thi Huyen, D. Randolph, and F. Unger. 2021.
-_Microbial contamination and associated risk factors in retailed pork from key value chains in Northern Vietnam._ International Journal of Food Microbiology. 346:109163. [10.1016/j.ijfoodmicro.2021.109163].
+_Microbial contamination and associated risk factors in retailed pork from key value chains in Northern Vietnam._ International Journal of Food Microbiology. 346:109163. [10.1016/j.ijfoodmicro.2021.109163](10.1016/j.ijfoodmicro.2021.109163).
 
 1. Turcotte, M. E., **J. Denis-Robichaud**, J. Dubuc, J. Harel, D. Tremblay, C. A. Gagnon, and J. Arsenault. 2021.
 _Prevalence of shedding and antibody to Coxiella burnetii in post-partum dairy cows and
-its association with reproductive tract diseases and performance: a pilot study._ Preventive Veterinary Medicine. 186. [10.1016/j.prevetmed.2020.105231].
+its association with reproductive tract diseases and performance: a pilot study._ Preventive Veterinary Medicine. 186. [10.1016/j.prevetmed.2020.105231](10.1016/j.prevetmed.2020.105231).
 
 1. Nadalin, A., **J. Denis-Robichaud**, A. M. L. Madureira, T. A. Burnett, J. Bauer, J. L. M. Vasconcelos, K. G. Pohler, A. M. Crespilho, and R. L. A. Cerri. 2021.
-_Validation of an in-house bovine serum enzyme immunoassay for progesterone measurement._ Journal of Dairy Science. 104. [10.3168/jds.2020-18824].
+_Validation of an in-house bovine serum enzyme immunoassay for progesterone measurement._ Journal of Dairy Science. 104. [10.3168/jds.2020-18824](10.3168/jds.2020-18824).
 
 1. Cerri, R.L.A., T.A. Burnett, A.M.L. Madureira, B.F. Silper, **J. Denis-Robichaud**, S. LeBlanc, R.F. Cooke, and J.L.M. Vasconcelos. 2021.
 _Symposium review: Linking activity-sensor data and physiology to improve dairy cow
-fertility._ Journal of Dairy Science. 104. [10.3168/jds.2019-17893].
+fertility._ Journal of Dairy Science. 104. [10.3168/jds.2019-17893](10.3168/jds.2019-17893).
 
 1. **Denis-Robichaud, J.**, D. Kelton, V. Fauteux, M. Villettaz-Robichaud, and J. Dubuc. 2020.
 _Accuracy of estimation of lameness, injury, and cleanliness prevalence by dairy farmers
- and veterinarians._ Journal of Dairy Science. [103:10696-10702. 10.3168/jds.2020-18651].
+ and veterinarians._ Journal of Dairy Science. [103:10696-10702. 10.3168/jds.2020-18651](103:10696-10702. 10.3168/jds.2020-18651).
 
 1. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2020.
 _Gap between producers and veterinarians regarding biosecurity on Québec dairy farms._ The Canadian Veterinary Journal. 61:757-762.
 
 1. **Denis-Robichaud, J.**, R. A. Almeida, S. Ivey, R. R. Rodriguez, M. Payne, K. E. Leslie, M. E. Hockett.  2019.
 _Performance of a milk leukocyte differential test for decision-making in a selective
-dry cow therapy program._ The Bovine Practitioner. 53:150-159. [10.21423/bovine-vol53no2p150-159].
+dry cow therapy program._ The Bovine Practitioner. 53:150-159. [10.21423/bovine-vol53no2p150-159](10.21423/bovine-vol53no2p150-159).
 
 1. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2019.
-_Canadian dairy farmers’ perception of the efficacy of biosecurity practices._ Journal of Dairy Science. 102:10657-10669. [10.3168/jds.2019-16312].
+_Canadian dairy farmers’ perception of the efficacy of biosecurity practices._ Journal of Dairy Science. 102:10657-10669. [10.3168/jds.2019-16312](10.3168/jds.2019-16312).
 
 1. **Denis-Robichaud, J.**, D. Kelton, C. Bauman, H. Barkema, G. Keefe, and J. Dubuc. 2019.
-_Biosecurity and herd health management practices on Canadian dairy farms._ Journal of Dairy Science. 102:9536-9547. [10.3168/jds.2018-1592].
+_Biosecurity and herd health management practices on Canadian dairy farms._ Journal of Dairy Science. 102:9536-9547. [10.3168/jds.2018-1592](10.3168/jds.2018-1592).
 
 1. **Denis-Robichaud, J.**, J.M. Fairbrother, F. Ndongo Kassé, and J. Dubuc. 2019.
 _Association Between the Presence of Intrauterine Escherichia Coli Virulence Genes and
-Subsequent Reproductive Tract Disease in Postpartum Dairy Cows._ Concepts of Dairy and Veterinary Sciences. 2: 195-201. [10.32474/CDVS.2019.02.000140].
+Subsequent Reproductive Tract Disease in Postpartum Dairy Cows._ Concepts of Dairy and Veterinary Sciences. 2: 195-201. [10.32474/CDVS.2019.02.000140](10.32474/CDVS.2019.02.000140).
 
 1. Arango-Sabogal, J.C., J. Dubuc, C. Krug, **J. Denis-Robichaud**, and S. Dufour. 2019.
 _Accuracy of leukocyte esterase test, endometrial cytology and vaginal T discharge
 score for diagnosing postpartum reproductive tract health status in dairy cows at the
-moment of sampling, using a latent class model fit within a Bayesian framework._ Preventive Veterinary Medicine. [10.1016/j.prevetmed.2018.11.003].
+moment of sampling, using a latent class model fit within a Bayesian framework._ Preventive Veterinary Medicine. [10.1016/j.prevetmed.2018.11.003](10.1016/j.prevetmed.2018.11.003).
 
 1. **Denis-Robichaud, J.**, S. LeBlanc, A. Jones-Bitton, B.F. Silper, and R.L.A. Cerri. 2018.
 _Pilot Study to Evaluate the Association Between the Length of the Luteal Phase and
-Estrous Activity Detected by Automated Activity Monitoring in Dairy Cows._ Frontiers in Veterinary Science. [10.3389/fvets.2018.00210].
+Estrous Activity Detected by Automated Activity Monitoring in Dairy Cows._ Frontiers in Veterinary Science. [10.3389/fvets.2018.00210](10.3389/fvets.2018.00210).
 
 1. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2018.
 _Dairy producers’ attitudes toward reproductive management and performance on Canadian
-dairy farms._ Journal of Dairy Science. 101:850-860. [10.3168/jds.2016-12416].
+dairy farms._ Journal of Dairy Science. 101:850-860. [10.3168/jds.2016-12416](10.3168/jds.2016-12416).
 
 1. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2018.
 _Performance of automated activity monitoring systems used in
 combination with timed artificial insemination compared to
 timed artificial insemination only in early lactation in dairy
-cows._ Journal of Dairy Science. 101:624-636. [10.3168/jds.2016-12256].
+cows._ Journal of Dairy Science. 101:624-636. [10.3168/jds.2016-12256](10.3168/jds.2016-12256).
 
 1. Genís, S., R.L.A. Cerri, À. Bach, B.F. Silper, M. Baylão, **J. Denis-Robichaud**, and A. Arís. 2018.
 _Pre-calving Intravaginal Administration of Lactic Acid Bacteria
  Reduces Metritis Prevalence and Regulates Blood Neutrophil
- Gene Expression After Calving in Dairy Cattle._ Frontiers in Veterinary Science. 5: 135. [10.3389/fvets.2018.00135].
+ Gene Expression After Calving in Dairy Cattle._ Frontiers in Veterinary Science. 5: 135. [10.3389/fvets.2018.00135](10.3389/fvets.2018.00135).
 
 1. Dubuc, J. and **J. Denis-Robichaud**. 2017. _A dairy herd-level
 study of postpartum diseases and their association with
-reproductive performance and culling._ Journal of Dairy Science. 100:3068-3078.  [10.3168/jds.2016-12144].
+reproductive performance and culling._ Journal of Dairy Science. 100:3068-3078.  [10.3168/jds.2016-12144](10.3168/jds.2016-12144).
 
 1. **Denis-Robichaud, J.**, R.L.A. Cerri, A. Jones-Bitton, and S. LeBlanc. 2016.
  _Survey of reproduction management on Canadian
-dairy farms._ Journal of Dairy Science. 99:9339–9351. [10.3168/jds.2016-11445].
+dairy farms._ Journal of Dairy Science. 99:9339–9351. [10.3168/jds.2016-11445](10.3168/jds.2016-11445).
 
 1. **Denis-Robichaud, J.** and J. Dubuc. 2015. _Randomized clinical
 trial of intrauterine cephapirin infusion in dairy cows for the
 treatment of purulent vaginal discharge and cytological
-endometritis._ Journal of Dairy Science. 98:6856-6864. [10.3168/jds.2014-9129].
+endometritis._ Journal of Dairy Science. 98:6856-6864. [10.3168/jds.2014-9129](10.3168/jds.2014-9129).
 
 1. **Denis-Robichaud, J.** and J. Dubuc. 2015. _Determination of optimal
 diagnostic criteria for purulent vaginal discharge and
-cytological endometritis in dairy cows._ Journal of Dairy Science. 98:6848-6855. [10.3168/jds.2014-9120].
+cytological endometritis in dairy cows._ Journal of Dairy Science. 98:6848-6855. [10.3168/jds.2014-9120](10.3168/jds.2014-9120).
 
 1. **Denis-Robichaud, J.**, J. Dubuc, D. Lefebvre, and L. DesCoteaux. 2014.
 _Accuracy of milk ketone bodies from flow-injection
  analysis for the diagnosis of hyperketonemia in dairy cows._
- Journal of Dairy Science. 97:3364-3370. (10.3168/jds.2013-6744).
+ Journal of Dairy Science. 97:3364-3370. [10.3168/jds.2013-6744](10.3168/jds.2013-6744).
 
 1. **Denis-Robichaud, J.**, L. DesCôteaux, and J. Dubuc. 2011.
 _Accuracy of a New Milk Strip Cow-side Test for Diagnosis of
@@ -426,14 +431,15 @@ Practitioners Conference 2013. Milwaukee, US. Proc., 46:135. Poster.
 #### D. Theses
 
 - Denis-Robichaud, J. 2016. _Assessment of automated activity
- monitors for managing reproduction in dairy cows._ Ph.D. Thesis.
-  University of Guelph, Guelph, Canada. [http://hdl.handle.net/10214/10123]
+ monitors for managing reproduction in dairy cows._ [http://hdl.handle.net/10214/10123](Ph.D. Thesis).  
+ University of Guelph, Guelph, Canada. 
 - Denis-Robichaud, J. 2013. _Effet d'un traitement intra-utérin
 de céphapirine sur les performances en reproduction des vaches
-laitières._ Université de Montréal, Saint-Hyacinthe, Canada. [http://hdl.handle.net/1866/10776]
+laitières._ [http://hdl.handle.net/1866/10776](M.Sc. Thesis).  
+Université de Montréal, Saint-Hyacinthe, Canada. 
 
 
-## @icon-laptop Teaching activities
+## <i class="fas fa-laptop"></i> Teaching activities
 
 ### I. Academic - graduate students
 
