@@ -7,7 +7,7 @@ José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u>
 
 josedr@hotmail.ca
 
-## @icon-user Personal details
+## <i class="far fa-user"></i> Personal details
 
 Dr. Denis-Robichaud is a veterinary epidemiologist researcher. She
 collaborated to various projects with research groups, governmental
@@ -19,11 +19,11 @@ mentored 8 graduate students (3 MSc and 5 PhD) for diverse projects,
 and volunteered for Veterinarians Without Borders in two countries
 and for training future volunteers.
 
-**Contact**::
-@icon-phone Canada/WhatsApp: + 1 418 631 7153 +
-@icon-phone The Netherlands: + 31 6 27 97 68 58 +
-@icon-phone South Africa: + 27 62 975 8570 +
-@icon-skype Skype: josedr_3
+**Contact**
+    @icon-phone Canada/WhatsApp: + 1 418 631 7153 
+    @icon-phone The Netherlands: + 31 6 27 97 68 58 
+    @icon-phone South Africa: + 27 62 975 8570 
+    @icon-skype Skype: josedr_3
 
 **Location**::
 @icon-map-marker Canada
