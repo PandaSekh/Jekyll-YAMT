@@ -1,10 +1,10 @@
 ---
 layout: default
 title: about
+toc: yes
 ---
 
 José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u>  
-[josedr@hotmail.ca]
 
 
 ## <i class="fas fa-user"></i> Personal details
@@ -24,36 +24,42 @@ and volunteered for Veterinarians Without Borders.
 : <i class="fas fa-phone"></i> South Africa: + 27 62 975 8570  
 : <i class="fab fa-skype"></i> Skype: josedr_3  
 
+
 **Location**  
 : <i class="fas fa-map-marker"></i> Canada
+
 
 ## <i class="fas fa-graduation-cap"></i> Education
 
 ### I. Academic Background
 
-2013 to 2016   
+2013 to 2016  
 : <i class="fas fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
 : **Doctor of Philosophy (Ph.D.)**, Population Medicine
 
-2011 to 2013
-: <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/) +
-: **Master of Science (M.Sc.)**, Veterinary Sciences
 
-2006 to 2011::
-@icon-university [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
-**Doctor of veterinary medicine (DVM)**
+2011 to 2013  
+: <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
+: **Master of Science (M.Sc.)**, Veterinary Sciences  
+
+
+2006 to 2011  
+: <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
+: **Doctor of veterinary medicine (DVM)**
 
 
 ### II. Professional development
 
-2021::
-American College of Veterinary Preventive Medicine ([https://acvpm.org/](ACVPM)) candidate
+2021  
+: American College of Veterinary Preventive Medicine ([ACVPM](https://acvpm.org/)) candidate
+
 
 #### Continuing Education
 
-2021::
-Online [http://prepacvpm.org/](Prep ACVPM) Course. January to June 2021. +
-Course leaders: Danelle Bickett-Weddle and Glenda Dvorak
+2021  
+: Online [Prep ACVPM](http://prepacvpm.org/) Course. January to June 2021.  
+: Course leaders: Danelle Bickett-Weddle and Glenda Dvorak
+
 
 2021::
 Core Skills Training (Git, Github, Jekyll, Docker, Markdown/Asciisdoc). Spring 2021 +
@@ -81,14 +87,14 @@ Instructors: Ian Dohoo, Henrik Stryhn and Javier Sanchez.
 2021 to now::
 **Research agent (part-time)** +
 _Improving Early Warning of Emerging Threats._ +
-@icon-university [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
+<i class="fas fa-university"></i> [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
 Supervisors: Dr. Hélène Carabin and Dr. Christina Zarowski
 
 2020 to now::
 **Part-time postdoctoral research fellowship** +
 _Genomics solutions for agriculture, agri-food, fisheries and aquaculture._ +
 Support research and teaching within the Dairy Reproduction research group. +
-@icon-university [https://www.landfood.ubc.ca/](University of British Columbia) +
+<i class="fas fa-university"></i> [https://www.landfood.ubc.ca/](University of British Columbia) +
 Supervisor: Dr. Ronaldo Cerri
 
 
@@ -108,10 +114,10 @@ communicating changes and challenges to the industry and the public.
 2011 to 2013::
 **Part-time veterinary clinician** +
 Ruminant Ambulatory Clinic +
-@icon-university [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
+<i class="fas fa-university"></i> [https://fmv.umontreal.ca/fmv/](Université de Montréal) +
 Supervisor: Dr. Luc DesCôteaux
 
-## @icon-bar-chart Research activities
+## <i class="fas fa-bar-chart"></i> Research activities
 
 ### I. Current projects
 
@@ -325,7 +331,7 @@ cytological endometritis in dairy cows._ Journal of Dairy Science. 98:6848-6855.
 1. **Denis-Robichaud, J.**, J. Dubuc, D. Lefebvre, and L. DesCoteaux. 2014.
 _Accuracy of milk ketone bodies from flow-injection
  analysis for the diagnosis of hyperketonemia in dairy cows._
- Journal of Dairy Science. 97:3364-3370. [10.3168/jds.2013-6744].
+ Journal of Dairy Science. 97:3364-3370. (10.3168/jds.2013-6744).
 
 1. **Denis-Robichaud, J.**, L. DesCôteaux, and J. Dubuc. 2011.
 _Accuracy of a New Milk Strip Cow-side Test for Diagnosis of
@@ -435,7 +441,7 @@ laitières._ Université de Montréal, Saint-Hyacinthe, Canada. [http://hdl.hand
 
 2020:: **Co-instructor for AANB 504**
 ([http://www.calendar.ubc.ca/vancouver/courses.cfm?code=AANB](Research Methodology in Applied Animal Biology)) +
-@icon-university University of British Columbia +
+<i class="fas fa-university"></i> University of British Columbia +
 Taught applied biostatistics and epidemiological concepts
 to graduate students.
 
@@ -448,23 +454,23 @@ to graduate students.
 ### II. Academic - undergraduate students
 
 2012 and 2013:: **Teaching assistant** +
-@icon-university Université de Montréal +
+<i class="fas fa-university"></i> Université de Montréal +
 Facilitated multiple veterinary classes and workshops, including office hours and grading.
 
 2012:: **Instructor** +
-@icon-university Université de Montréal +
+<i class="fas fa-university"></i> Université de Montréal +
 Lead a group of veterinary students for a farm evaluation.
 
 ### III. Continuous education and other training
 
 2020:: **Workshop leader** (volunteer) +
-@icon-building [https://www.vetswithoutborders.ca/](Veterinarians Without Borders - Canada) +
+<i class="fas fa-building"></i> [https://www.vetswithoutborders.ca/](Veterinarians Without Borders - Canada) +
 Lead discussion on One Health following an [https://youtu.be/E-scnaq_A_o](online introduction).
 So far, 3 workshops took place for the pre-departure training of 20 volunteers
 participating in projects in Vietnam, Kenya, Ghana, and Senegal.
 
 2017 to 2019:: **Online course developer** +
-@icon-university [https://ecommerce.dexero.com/shopping/medvet/formation_continue/](Centre d'expertise en développement continu des compétences vétérinaires) +
+<i class="fas fa-university"></i> [https://ecommerce.dexero.com/shopping/medvet/formation_continue/](Centre d'expertise en développement continu des compétences vétérinaires) +
 Designed and created continuous education courses for dairy cow veterinarians: +
 - [https://youtu.be/jJhyNJiK1Lc](Management of reproductive health of dairy cows)
 - [https://youtu.be/XrxaVHMFTBA](Early non-pregnancy diagnosis – Doppler ultrasound)
