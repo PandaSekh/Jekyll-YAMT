@@ -4,13 +4,13 @@ title: about
 toc: yes
 ---
 
-José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u>  
-[josedr@hotmail.ca](mailto:josedr@hotmail.ca)
+: José Denis-Robichaud, DVM MSc PhD <u>(she/her)</u>  
+: [josedr@hotmail.ca](mailto:josedr@hotmail.ca)
 
 
 ## <i class="fas fa-user"></i> Personal details
 
-Dr. Denis-Robichaud is a veterinary epidemiologist and researcher. She
+: Dr. Denis-Robichaud is a veterinary epidemiologist and researcher. She
 collaborated to various projects with research groups, governmental
 entities, and private companies in Canada, the United States, and
 Vietnam. Her contribution to the different projects included reviewing
@@ -35,17 +35,17 @@ and volunteered for Veterinarians Without Borders.
 
 2013 to 2016  
 : <i class="fas fa-university"></i> [University of Guelph](https://ovc.uoguelph.ca/population-medicine/department-population-medicine)  
-: **Doctor of Philosophy (Ph.D.)**, Population Medicine.
+: **Doctor of Philosophy (Ph.D.)**, Population Medicine  
 <br/>  
 
 2011 to 2013  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
-: **Master of Science (M.Sc.)**, Veterinary Sciences.  
+: **Master of Science (M.Sc.)**, Veterinary Sciences  
 <br/>  
 
 2006 to 2011  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
-: **Doctor of veterinary medicine (DVM)**.
+: **Doctor of veterinary medicine (DVM)**
   
 
 ### II. Professional development
@@ -58,28 +58,28 @@ and volunteered for Veterinarians Without Borders.
 
 2021   
 : Online [Prep ACVPM](http://prepacvpm.org/) Course. January to June 2021.   
-: Course leaders: Danelle Bickett-Weddle and Glenda Dvorak.  
+: Course leaders: Danelle Bickett-Weddle and Glenda Dvorak  
 <br/>  
 
 2021  
 : Core Skills Training (Git, Github, Jekyll, Docker, Markdown/Asciisdoc). Spring 2021.  
-: University of British Columbia.    
+: University of British Columbia    
 <br/>  
 
 2016  
 : Bayesian Latent Class Modelling in Animal Health. _Epi on the Island_, Prince-Edward-Island, Canada. June 8 - June 11.  
-: Instructors: Wes Johnson, Ian Gardner and Henrik Stryhn.  
+: Instructors: Wes Johnson, Ian Gardner and Henrik Stryhn  
 <br/>
 
 2016  
 : Introduction to Multilevel Modelling. _Epi on the Island_, Prince-Edward-Island, Canada. June 13 - June 17.  
-: Instructors: Ian Dohoo, Henrik Stryhn and Javier Sanchez.  
+: Instructors: Ian Dohoo, Henrik Stryhn and Javier Sanchez  
 
 
 ### III. Language Skills
 
-**French**: native language.  
-**English**: fluent.
+: **French**: native language  
+: **English**: fluent
 
 
 ## <i class="fas fa-briefcase"></i> Professional experience
@@ -87,38 +87,39 @@ and volunteered for Veterinarians Without Borders.
 ### I. Research positions
 
 2021 to now  
-: **Research agent (part-time)**  
+: **Research agent** (part-time)  
 : _Improving Early Warning of Emerging Threats._  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
-: Supervisors: Dr. Hélène Carabin and Dr. Christina Zarowski.  
+: Supervisors: Dr. Hélène Carabin and Dr. Christina Zarowski  
 
 <br/>
 2020 to now  
-: **Part-time postdoctoral research fellowship**  
+: **Postdoctoral research fellowship** (part-time)  
 : _Genomics solutions for agriculture, agri-food, fisheries and aquaculture._  
-: Support research and teaching within the Dairy Reproduction research group.  
+: Role: support research and teach within the Dairy Reproduction research group.  
 : <i class="fas fa-university"></i> [University of British Columbia](https://www.landfood.ubc.ca/)  
-: Supervisor: Dr. Ronaldo Cerri.
+: Supervisor: Dr. Ronaldo Cerri
 
 
 ### II. Consulting
 
 2017 to now  
 : **Self-employed veterinary epidemiologist**  
-* Develop, analyze, interpret, and publish research projects with
+: Role:  
+: * Develop, analyze, interpret, and publish research projects with
 major stakeholders in animal science, public health, and One Health.  
-* Design and create online courses for continuing education of
+: * Design and create online courses for continuing education of
 veterinarians and animal scientists.  
-* Interview researchers, farmers, and other stakeholders for
+: * Interview researchers, farmers, and other stakeholders for
 communicating changes and challenges to the industry and the public.  
 
 ### III. Clinical position
 
 2011 to 2013  
-: **Part-time veterinary clinician**  
+: **Veterinary clinician** (part-time)  
 : Ruminant Ambulatory Clinic  
 : <i class="fas fa-university"></i> [Université de Montréal](https://fmv.umontreal.ca/fmv/)  
-: Supervisor: Dr. Luc DesCôteaux.
+: Supervisor: Dr. Luc DesCôteaux
 
 ## <i class="fas fa-bar-chart"></i> Research activities
 
@@ -255,7 +256,7 @@ PI: Dr. Jocelyn Dubuc
 
 #### A. Peer-reviewed journals
 
-1. Tuan Ngo, H. H., L. Nguyen-Thanh, P. Pham-Duc, S. Dang-Xuan, H. Le-Thi, **J. Denis-Robichaud**, H. Nguyen-Viet, T. Le-Thi Huyen, D. Randolph, and F. Unger. 2021.
+: 1. Tuan Ngo, H. H., L. Nguyen-Thanh, P. Pham-Duc, S. Dang-Xuan, H. Le-Thi, **J. Denis-Robichaud**, H. Nguyen-Viet, T. Le-Thi Huyen, D. Randolph, and F. Unger. 2021.  
 _Microbial contamination and associated risk factors in retailed pork from key value chains in Northern Vietnam._ International Journal of Food Microbiology. 346:109163. [10.1016/j.ijfoodmicro.2021.109163](10.1016/j.ijfoodmicro.2021.109163).
 
 1. Turcotte, M. E., **J. Denis-Robichaud**, J. Dubuc, J. Harel, D. Tremblay, C. A. Gagnon, and J. Arsenault. 2021.
@@ -443,11 +444,12 @@ Université de Montréal, Saint-Hyacinthe, Canada.
 
 ### I. Academic - graduate students
 
-2020:: **Co-instructor for AANB 504**
-([http://www.calendar.ubc.ca/vancouver/courses.cfm?code=AANB](Research Methodology in Applied Animal Biology)) +
-<i class="fas fa-university"></i> University of British Columbia +
-Taught applied biostatistics and epidemiological concepts
-to graduate students.
+2020  
+: **Co-instructor for AANB 504**
+([Research Methodology in Applied Animal Biology](http://www.calendar.ubc.ca/vancouver/courses.cfm?code=AANB))  
+: <i class="fas fa-university"></i> University of British Columbia  
+: Role: teach applied biostatistics and epidemiological concepts
+to graduate students.  
 
 > Ultimately I thought it was a good approach! In particular, working with
 > José was INCREDIBLE, she is such a wealth of knowledge.
@@ -457,114 +459,129 @@ to graduate students.
 
 ### II. Academic - undergraduate students
 
-2012 and 2013:: **Teaching assistant** +
-<i class="fas fa-university"></i> Université de Montréal +
-Facilitated multiple veterinary classes and workshops, including office hours and grading.
+2012 and 2013  
+: **Teaching assistant**  
+: <i class="fas fa-university"></i> Université de Montréal  
+: Role: facilitate multiple veterinary classes and workshops, including office hours and grading.  
+<br/>
 
-2012:: **Instructor** +
-<i class="fas fa-university"></i> Université de Montréal +
-Lead a group of veterinary students for a farm evaluation.
+2012  
+: **Instructor**  
+: <i class="fas fa-university"></i> Université de Montréal  
+: Role: lead a group of veterinary students for a farm evaluation.
 
 ### III. Continuous education and other training
 
-2020:: **Workshop leader** (volunteer) +
-<i class="fas fa-building"></i> [https://www.vetswithoutborders.ca/](Veterinarians Without Borders - Canada) +
-Lead discussion on One Health following an [https://youtu.be/E-scnaq_A_o](online introduction).
-So far, 3 workshops took place for the pre-departure training of 20 volunteers
-participating in projects in Vietnam, Kenya, Ghana, and Senegal.
+2020  
+: **Workshop leader** (volunteer)  
+: <i class="fas fa-building"></i> [Veterinarians Without Borders - Canada](https://www.vetswithoutborders.ca/)  
+: Role: lead discussion on One Health following an [online introduction](https://youtu.be/E-scnaq_A_o) with over 20 volunteers participating in projects in Vietnam, Kenya, Ghana, and Senegal.  
+<br/> 
 
-2017 to 2019:: **Online course developer** +
-<i class="fas fa-university"></i> [https://ecommerce.dexero.com/shopping/medvet/formation_continue/](Centre d'expertise en développement continu des compétences vétérinaires) +
-Designed and created continuous education courses for dairy cow veterinarians: +
-- [https://youtu.be/jJhyNJiK1Lc](Management of reproductive health of dairy cows)
-- [https://youtu.be/XrxaVHMFTBA](Early non-pregnancy diagnosis – Doppler ultrasound)
-- [https://youtu.be/q0j0MH5Y5lM](Diagnostiquer la balance énergétique négative en péripartum) (fr)
+2017 to 2019  
+: **Online course developer**  
+: <i class="fas fa-university"></i> [Centre d'expertise en développement continu des compétences vétérinaires](https://ecommerce.dexero.com/shopping/medvet/formation_continue/)  
+: Role: design and create continuous education courses for dairy cow veterinarians:  
+: - [https://youtu.be/jJhyNJiK1Lc](Management of reproductive health of dairy cows)  
+: - [https://youtu.be/XrxaVHMFTBA](Early non-pregnancy diagnosis – Doppler ultrasound)  
+: - [https://youtu.be/q0j0MH5Y5lM](Diagnostiquer la balance énergétique négative en péripartum) (fr)  
 
-## @icon-comments Communication activities
+## <i class="fas fa-comments"></i> Communication activities
 
-2020::
-**Focus group leader** +
-_Producer Practices and Attitudes Regarding Housing in the Code of Practice
+2020  
+: **Focus group leader**  
+: _Producer Practices and Attitudes Regarding Housing in the Code of Practice
 for the Care and Handling of Dairy Cattle_ as support for the 2022
-revised [https://www.nfacc.ca/codes-of-practice](Dairy Code of Practice).
+revised [Dairy Code of Practice](https://www.nfacc.ca/codes-of-practice).  
+<br/>  
 
-2020::
-**Interviewer** +
-Podcasts with stakeholders of the dairy industry to address producers' challenges
-and opportunities (not broadcasted yet).
+2020  
+: **Interviewer**  
+: Podcasts with stakeholders of the dairy industry to address producers' challenges
+and opportunities (not broadcasted yet).  
+<br/>  
 
-2020::
-**Creator and interviewer** (volunteer) +
-Online [https://youtu.be/E-scnaq_A_o](introduction to One Health) for future volunteers (Veterinarians
-Without Borders).
+2020  
+: **Creator and interviewer** (volunteer)  
+: Online [introduction to One Health](https://youtu.be/E-scnaq_A_o) for future volunteers (Veterinarians Without Borders).  
+<br/>  
 
-## @icon-certificate Awards and scholarships
+## <i class="fas fa-certificate"></i> Awards and scholarships
 
 ### I. International and national
 
-2015 and 2016::
-**Alexander Graham Bell Canada Graduate Scholarships** - Doctorate,
-Natural Sciences and Engineering Research Council of Canada
+2015 and 2016  
+: **Alexander Graham Bell Canada Graduate Scholarships** - Doctorate,
+Natural Sciences and Engineering Research Council of Canada  
+<br/>
 
-2012 and 2013::
-**Alexander Graham Bell Canada Graduate Scholarships** - Master,
-Natural Sciences and Engineering Research Council of Canada
+2012 and 2013  
+: **Alexander Graham Bell Canada Graduate Scholarships** - Master,
+Natural Sciences and Engineering Research Council of Canada  
+<br/>  
 
-2011::
-2nd place **Student Presentation Award**,
-American Association of Bovine Practitioner
+2011  
+: 2nd place **Student Presentation Award**,
+American Association of Bovine Practitioner  
+<br/>
 
-2011::
-**AABP Education Grant**,
+2011  
+: **AABP Education Grant**,
 American Association of Bovine Practitioner
 
 ### II. Provincial
 
-2014 and 2015::
-**Ontario Graduate Scholarship**,
-Ontario Student Assistance Program
+2014 and 2015  
+: **Ontario Graduate Scholarship**,
+Ontario Student Assistance Program  
+<br/>
 
-2012 and 2013::
-**Master’s excellence scholarship from the Canadian Dairy Commission**,
-Novalait
+2012 and 2013  
+: **Master’s excellence scholarship from the Canadian Dairy Commission**,
+Novalait  
 
 ### III. Institutional
 
-2013 to 2016::
-**Canadian Dairy Commission PhD Scholarship**,
-University of Guelph
+2013 to 2016  
+: **Canadian Dairy Commission PhD Scholarship**,
+University of Guelph  
+<br/>  
 
-2013 to 2016::
-**OVC Fellowship**,
-Ontario Veterinary College
+2013 to 2016  
+: **OVC Fellowship**,
+Ontario Veterinary College  
+<br/>  
 
-2012::
-**Master’s admission scholarship**,
+2012  
+: **Master’s admission scholarship**,
 Faculty of Graduate and Postdoctoral Studies, Université de Montréal
 
-## @icon-users Community involvement
+## <i class="fas fa-users"></i> Community involvement
 
 ### I. Journal article reviewing
 
-- [https://onlinelibrary.wiley.com/journal/14390531](Reproduction in Domestic Animals), since 2019
-- [https://www.journals.elsevier.com/the-veterinary-journal](The Veterinary Journal), since 2017
-- [https://www.journals.elsevier.com/theriogenology](Theriogenology), since 2017
-- [https://veterinaryresearch.biomedcentral.com/](Veterinary Research), since 2017
-- [https://www.tandfonline.com/toc/taar20/current](Journal of Applied Animal Research), since 2017
-- [https://www.journals.elsevier.com/journal-of-dairy-science](Jounal of Dairy Science), since 2016
-- [https://www.canadianveterinarians.net/cvj-cjvr-classified-ads/cvj](Canadian Veterinary Journal), since 2015
-- [https://www.sciencedirect.com/journal/livestock-science](Livestock Science), since 2015
-- [https://journals.tdl.org/bovine/index.php/bovine](The Bovine Practitioner), since 2013
+- [Reproduction in Domestic Animals](https://onlinelibrary.wiley.com/journal/14390531), since 2019
+- [The Veterinary Journal](https://www.journals.elsevier.com/the-veterinary-journal), since 2017
+- [Theriogenology](https://www.journals.elsevier.com/theriogenology), since 2017
+- [Veterinary Research](https://veterinaryresearch.biomedcentral.com/), since 2017
+- [Journal of Applied Animal Research](https://www.tandfonline.com/toc/taar20/current), since 2017
+- [Jounal of Dairy Science](https://www.journals.elsevier.com/journal-of-dairy-science), since 2016
+- [Canadian Veterinary Journal](https://www.canadianveterinarians.net/cvj-cjvr-classified-ads/cvj), since 2015
+- [Livestock Science](https://www.sciencedirect.com/journal/livestock-science), since 2015
+- [The Bovine Practitioner](https://journals.tdl.org/bovine/index.php/bovine), since 2013
 
 ### II. Volunteering
 
-2018 to now   **Veterinary Advisory Council Member** +
-@icon-building [Veterinarian Without Borders - Canada](https://www.vetswithoutborders.ca/) :::
-- Support project development and volunteer training to integrate the One Health approach.
-- Support development of research projects and teach graduate students and research staff on biostatistics and epidemiological tools within the Center for Public Health and Ecosystem Research (Vietnam).
-- Collaborate with stakeholders and governmental entities to help the development of the Ugandan dairy industry by supporting the health, well-being, and production of dairy cows.
+2018 to now   
+: **Veterinary Advisory Council Member**  
+: <i class="fas fa-building"></i> [Veterinarian Without Borders - Canada](https://www.vetswithoutborders.ca/)  
+: Roles:
+: - Support project development and volunteer training to integrate the One Health approach.  
+: - Support development of research projects and teach graduate students and research staff on biostatistics and epidemiological tools within the Center for Public Health and Ecosystem Research (Vietnam).  
+: - Collaborate with stakeholders and governmental entities to help the development of the Ugandan dairy industry by supporting the health, well-being, and production of dairy cows.
 
 
-2012 » **Speaker**  
-» Sensibilisation aux Études, à l’Université et à la Recherche  
-» Promoted academic and scientific professions to high school students.
+2012   
+: **Speaker**   
+: _Sensibilisation aux Études, à l’Université et à la Recherche_  
+: Role: promote academic and scientific professions to high school students.
