@@ -1,12 +1,12 @@
 # Site settings
-title: YAMT
-description: "Yet Another Minimal Theme"
-url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
+title: Title
+description: "A space to reflect"
+url:  "https://nadaa.github.io" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "Nada Ghanem"
+  email: ""
+  url: ""
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
